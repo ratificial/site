@@ -1,0 +1,35 @@
+{
+  "title": "Prot­ocol Notice",
+  "headingLevel": 2,
+  "blocks": [
+    {
+      "kind": "subheading",
+      "text": "## Prot­ocol Notice",
+      "chapterHeadingPreSpacePx": 100
+    },
+    {
+      "kind": "paragraph",
+      "text": "Ratifica­tion: The Second Bailout",
+      "leadBookTypography": true
+    },
+    {
+      "kind": "paragraph",
+      "text": "by H.B. Rattinger",
+      "leadBookTypography": false
+    },
+    {
+      "kind": "divider",
+      "text": "---"
+    },
+    {
+      "kind": "paragraph",
+      "text": "All rights re­served. No part of this book may be re­produced or trans­mitted in any form or by any means, elect­ronic or mecha­nical, without prior written permis­sion of the publ­isher, except in the case of brief quota­tions used in reviews.",
+      "leadBookTypography": true
+    },
+    {
+      "kind": "paragraph",
+      "text": "This is a work of fiction. Names, chara­cters, places, and inci­dents are either prod­ucts of the author's imagina­tion or are used fictit­iously. Any re­semblance to actual persons, living or dead, organi­zations, or events is purely coinci­dental.",
+      "leadBookTypography": false
+    }
+  ]
+}

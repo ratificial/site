@@ -1,0 +1,91 @@
+{
+  "title": "PUSHDATA 40.553.003",
+  "headingLevel": 2,
+  "blocks": [
+    {
+      "kind": "subheading",
+      "text": "## PUSHDATA 40.553.003",
+      "chapterHeadingPreSpacePx": 100
+    },
+    {
+      "kind": "paragraph",
+      "text": "Princ­iples of Civic Safe­guard Enforce­ment in the United Orbital Struc­tures Version 34.1 - After Ratkind - Chapter 12",
+      "leadBookTypography": true
+    },
+    {
+      "kind": "paragraph",
+      "text": "It is settled doct­rine that enforce­ment under UOS jurisdic­tion is never discre­tionary and never re­trospective. No judges or jury conv­enes, no test­imony is weighed, no plea is heard. Re­levant truths are fixed at the moment of collateralization, when liab­ility is un­derwritten by the holder of a wallet and sealed to the chain. What follows, whether in a boul­evard brawl or an orbital breach, is not adjudica­tion but the pre-priced un­furling of inevit­ability.",
+      "leadBookTypography": false
+    },
+    {
+      "kind": "paragraph",
+      "text": "Iden­tity",
+      "leadBookTypography": false
+    },
+    {
+      "kind": "paragraph",
+      "text": "A person is not re­cognized by name or biom­etric trace but by wallet. Each wallet is anch­ored to spon­sors - parents in chil­dhood, corpor­ations in adul­thood, neglig­ible base-layer drips for those without stan­ding. The holder acts through the wallet and assumes liab­ility for all trans­actions. The spon­sors provide conti­nuity and re­putation, but regress toward them occur only under expl­icit multi-sign­ature collateralization. Iden­tity theft pers­ists, but is rare: to seize a wallet is insuff­icient, one must also falsify the holder's liabi­lities.",
+      "leadBookTypography": false
+    },
+    {
+      "kind": "paragraph",
+      "text": "Corpor­ations, habi­tats, and fleets like­wise exist only through wallets with un­derwriting arrang­ements. No artif­icial gravity is given uncollateralized, no ship can cross a lane without proper backing. To exist without un­derwriting is to be invis­ible; to act without colla­teral is to be exting­uished.",
+      "leadBookTypography": false
+    },
+    {
+      "kind": "paragraph",
+      "text": "Liab­ility",
+      "leadBookTypography": false
+    },
+    {
+      "kind": "paragraph",
+      "text": "Civic infrast­ructure inter­rogates every act for colla­teral. The ques­tion is always the same: is this move un­derwritten? If so, the action proc­eeds. If not, enforce­ment re­leases. An un­priced punch trig­gers the same mach­inery as an uncollateralized orbital burn. In either case, safeg­uards acti­vate, not as punish­ment but as the release of pre-comm­itted counter-liab­ility.",
+      "leadBookTypography": false
+    },
+    {
+      "kind": "paragraph",
+      "text": "Zones of Zero Trust",
+      "leadBookTypography": false
+    },
+    {
+      "kind": "paragraph",
+      "text": "ZZTs are not conf­ined to conco­urses and market­places or private habi­tats and offices. They extend into transit corr­idors, docking shells, and lice­nsed lanes of inter­planetary space. Within them latency is neglig­ible - infrast­ructure queries the wallet, veri­fies the holder, and re­sponds in line with the colla­teral staked. Enforce­ment may wound or kill, but the deci­sive strike is econ­omic: the offe­nding wallet is re­priced, its risk curve perma­nently re­calculated. In many cases reputational damage flows down­ward to spon­sors as well, who must bear higher reputational costs in future un­derwriting.",
+      "leadBookTypography": false
+    },
+    {
+      "kind": "paragraph",
+      "text": "How enforce­ment is decided is under the discre­tion of the Zone. From fully auto­mated, zero-tole­rance AI systems to swarms of biolo­gical cons­ensus-workers - it depends on the priced risk of wron­gful or exce­ssive dete­rrent and the un­derwriting of the Zone itself.",
+      "leadBookTypography": false
+    },
+    {
+      "kind": "paragraph",
+      "text": "Inju­rious Outc­omes",
+      "leadBookTypography": false
+    },
+    {
+      "kind": "paragraph",
+      "text": "Phys­ical harm is incid­ental. The lasting conse­quence is actu­arial. A wallet once marked is forever expe­nsive: future un­derwriters must collat­eralize at higher rates, constr­aining mobi­lity, contr­acting access, stigma­tizing fleets and habi­tats. A single breach can condemn an entire corp­orate lineage to decades of puni­tive un­derwriting.",
+      "leadBookTypography": false
+    },
+    {
+      "kind": "paragraph",
+      "text": "Irrever­sibility",
+      "leadBookTypography": false
+    },
+    {
+      "kind": "paragraph",
+      "text": "Appeals do not exist. Enforce­ment actions rati­fied to the chain cannot be unwound. Justice is no longer conc­erned with the illu­sions of fair­ness but through conti­nuity. The chain re­members, and in re­membering pre­serves pre­dictability. Re­demption, if it comes, is not through re­vision but through the slow re-pricing of future acts and oblig­ations.",
+      "leadBookTypography": false
+    },
+    {
+      "kind": "paragraph",
+      "text": "Drips",
+      "leadBookTypography": false
+    },
+    {
+      "kind": "paragraph",
+      "text": "Ident­ities endure not solely through colla­teral but through drips: the cons­tant emis­sion of LAT from the chain itself. These flows arise from two sources: fees harv­ested at ratifica­tion, and the re­serves of the First Bailout. The former should have suff­iced to perpe­tuate the cycle, yet most legacy nodes - still human in origin - return no drips. They hoard fees, and so the chain leaks in only one direc­tion, wide­ning the fissure in the First Bailout with each cycle.",
+      "leadBookTypography": false
+    }
+  ]
+}

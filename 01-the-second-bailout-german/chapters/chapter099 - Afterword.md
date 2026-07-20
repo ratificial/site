@@ -1,0 +1,16 @@
+# Nachwort
+
+Danke, dass Du "Ratifica­tion: The Second Bailout" gelesen hast, und ich hoffe aufrichtig, dass es dir gefallen hat.
+Es gibt weitere Geschichten im Ratifica­tion-Universum zu erzählen.
+
+Bitte schreibe eine Rezension - dein Feed­back kann helfen, zukünftige Ausgaben und Bände zu gestalten.
+
+Danke fürs Lesen und dafür, dass Du das fragile Vertrauen respektierst, das dieser Austausch impliziert, in einer Welt, die zunehmend darauf ausgelegt ist, ohne jedes Vertrauen zu funktionieren.
+
+\
+
+\
+
+\
+
+---

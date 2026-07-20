@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+<meta http-equiv="Content-Security-Policy" content="default-src 'self'; base-uri 'self'; form-action 'self'; frame-ancestors 'none'; object-src 'none'; script-src 'self'; script-src-elem 'self'; script-src-attr 'none'; style-src 'self'; img-src 'self' data: blob:; font-src 'self'; connect-src 'self'; media-src 'self' data: blob:; worker-src 'self' blob:; manifest-src 'self'">
+<title>Ratification — Pretext Reader</title>
+<link rel="icon" type="image/svg+xml" href="./rat-icon-001.svg">
+<link href="assets/fonts/fonts.css" rel="stylesheet">
+  <link rel="stylesheet" href="./reader-pretext.css">
+
+</head>
+<body>
+<div class="chapter-bg" id="chapter-bg-a"></div>
+<div class="chapter-bg" id="chapter-bg-b"></div>
+<div class="reader-focus-overlay" id="reader-focus-overlay" aria-hidden="true"></div>
+<div class="progress-bar" id="progress"></div>
+<div class="line-mask" id="line-mask-top"></div>
+<div class="line-mask" id="line-mask-bottom"></div>
+<div class="page-frame-overlay" id="page-frame-overlay"></div>
+<div class="viewport-debug-overlay" id="viewport-debug-overlay" aria-hidden="true">
+  <div class="viewport-debug-line top" id="viewport-debug-top"></div>
+  <div class="viewport-debug-line bottom" id="viewport-debug-bottom"></div>
+  <div class="viewport-debug-label" id="viewport-debug-label"></div>
+</div>
+
+<div class="toolbar deferred" id="toolbar">
+  <button title="Table of contents" id="toc-toggle">✦</button>
+  <button title="Back to home" id="home-btn">⌂</button>
+  <span class="title" id="toolbar-title">Ratification</span>
+  <button id="font-dec-btn">A-</button>
+  <button id="font-inc-btn">A+</button>
+  <select id="rendering-mode-select">
+    <option value="compact" selected>Compact</option>
+    <option value="comfortable">Comfortable</option>
+  </select>
+  <button id="bg-toggle" title="Toggle chapter backgrounds">🖼</button>
+  <button id="cycle-theme-btn">🌓</button>
+  <select id="book-locale-select" title="Book language"></select>
+</div>
+
+<div class="paging-next" id="paging-next" aria-hidden="true">
+  <button id="paging-next-btn" type="button">next page &gt;</button>
+</div>
+
+<div class="transition-overlay" id="overlay">
+  <span id="overlay-text">Loading...</span>
+</div>
+
+<div id="loading">
+  <div>
+    <div class="loading-title">Loading book...</div>
+    <div id="load-progress" class="loading-progress">Fetching chapters</div>
+  </div>
+</div>
+
+<div class="reader" id="reader"></div>
+<div class="scroll-spacer" id="scroll-spacer" aria-hidden="true"></div>
+
+<div class="nav-dots" id="nav-dots"></div>
+<div class="toc-flyout" id="toc-flyout" aria-hidden="true"></div>
+<div class="resume-popover" id="resume-popover" aria-hidden="true">
+  <div class="resume-popover-row">
+    <div class="resume-popover-actions resume-split">
+    <button id="resume-popover-go" type="button">Go to furthest read</button>
+    <button id="resume-popover-close" type="button" aria-label="Dismiss">✕</button>
+    </div>
+  </div>
+</div>
+
+<script type="module" src="./app.js"></script>
+
+</body>
+</html>

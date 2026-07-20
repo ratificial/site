@@ -1,0 +1,103 @@
+
+## PUSHDATA 38.154.004
+
+*Princ­iples of Civic Safe­guard Enforce­ment in the United Orbital Struc­tures*
+*Excerpt from "The Ascen­dancy of Ratkind" - a histo­rical fiction novel, Edition 23*
+
+Chapter 16: The Ascen­sion of Jerenxa and the Dawn of Ratkind
+
+Foll­owing the conclu­sion of the Battle of the Belt, where the Ratkind fleet failed to repel the rogue AI enti­ties known as Tabbies, the fleet was left in a pre­carious state. With dimin­ished re­sources and no safe haven to retreat to, Captain Jerenxa, Comm­ander of the USS Nakamoto, made the stra­tegic deci­sion to divert her vessel toward Voyager 1.
+
+This deci­sion was based on histo­rical records indic­ating that signi­ficant LAT re­serves had been stored in the probe by an anon­ymous group cent­uries earlier. These re­serves, while forg­otten by most, had the pote­ntial to provide Ratkind with the nece­ssary capital to esta­blish a foot­hold in a system hostile to all but the affl­uent.
+
+Upon re­aching Voyager 1, Jerenxa's crew succes­sfully re­trieved the LAT stored aboard the probe. However, the journey was not without diffi­culty. The crew of the Nakamoto faced nume­rous hard­ships, incl­uding mecha­nical fail­ures and the strain of long-dura­tion space travel. Despite these chall­enges, the re­trieval of the LAT marked a turning point for the fleet, as it prov­ided the re­sources nece­ssary for their safe return to Earth, and ensured their econ­omic power once home.
+
+It was after their return journey that Jerenxa and her crew made a signi­ficant, but frigh­tening disc­overy: all communica­tion from Earth had ceased. Historic­ally, Earth had been the center of human civiliza­tion, yet by the time of Jerenxa's appr­oach, no signals were being broa­dcast, and no active communica­tion links besides auto­mated trans­mission of an empty timechain could be found. While the absence of human acti­vity was un­expected, the re­trieval of the LAT posit­ioned Jerenxa to take adva­ntage of the situa­tion.
+
+In year 1 AR (After Ratkind), marked by Jerenxa ente­ring Earth's orbit, Jerenxa took imme­diate action to restore and revive the dormant infrast­ructure left behind by huma­nity.
+While Jerenxa and her valiant crew were faced with an infrast­ructure that was seve­rely negl­ected and most systems locked behind LAT cont­racts without any counterparty still alive.
+
+To their surp­rise, the DMN was - as it was desi­gned for full auto­nomy - still fully intact, and during the Nakamoto's long journey, huma­nity had estab­lished an orbital ring - akin to the one on the Moon - over their home planet.
+
+As the Ring was the habitat which prov­ided first-class access to the surface, and was the only re­maining funct­ional stru­cture, Jerenxa decided to make it their initial target.
+
+The LAT re­trieved from Voyager 1 proved crucial, as it allowed for the repair and re­activation of many crit­ical systems. Without these funds, it is un­likely that Ratkind would have been able to achieve the level of techno­logical re­covery witn­essed in the early years of the UOS.
+
+***
+
+However, the heroic return of Ratkind was not met without issues. As the crew of the star­ship USS Nakamoto slowly settled the Ring, and tried to make it their home, the un­derlying atmos­phere grew thicker and thicker with unease. The eerie backstory of huma­nity's sudden disapp­earance had spread like wild­fire among the former crew, igni­ting a fervor that Jerenxa, now acting as head arbiter of a hastily founded govern­ment, could not ignore.
+
+Marika, her former second in command, cut stra­ight to the point of their weekly "state of things" meeting.
+"Let's get to the - in my opinion - most pre­ssing issue: The Rapture", her eyes wide with fear. "As ever­yone has prob­ably heard already, acco­rding to the timechain it was a Rapture! The humans have been taken by their god!"
+
+Jerenxa, perched on her chair, turned to face her former crew. "We must remain rati­onal," she urged, her voice steady yet firm. "While yes, that is what huma­nity beli­eved back then, but still, those are mere rumors, born from fear and un­certainty. We cannot let supersti­tion dictate our actions."
+
+But Marika did not let it go, "We cannot ignore the signs!" she procl­aimed, her voice echoing through the brig­htly lit chamber. "The humans' god has puni­shed them for their hubris! If there is only a slim chance it is the truth, we cannot risk ange­ring this deity too by attem­pting to reclaim the heavens too!"
+
+Jerenxa felt a knot tighten in her stomach. She knew she faced a diff­icult choice: to dismiss this narr­ative and risk it growing into a formid­able force, or to conf­ront it head-on, potenti­ally using it to unite Ratkind under a greater purpose.
+
+"Marika," she said condescend­ingly, "Fear is not a valid policy. Your prop­osal enda­ngers us all, the enti­rety of ratkind. We must seek the actual truth behind huma­nity's disapp­earance, not hide or bury it under a veil of supersti­tion."
+
+But Marika was un­deterred. "You would lead us into the jaws of the unknown?" she raised her voice. "What if we are puni­shed for our curi­osity?"
+
+In that moment, Jerenxa re­alized she needed a stra­tegy, a way to navi­gate this treac­herous land­scape.
+
+In Tarek, a well-known hero of the battle of the Belt - the brave pilot who allowed her to comma­ndeer and save the Nakamoto, she found her perfect double agent. An expedi­tion down the orbital elev­ators to Earth was inevit­able, looking for further clues about huma­nity's disapp­earance, and restart the much-needed logis­tical network, but it was met with re­sistance from many rats, biologic­ally not well adapted to the heavy gravity and un­filtered atmos­phere of Earth.
+
+It was a perfect match of incen­tives, and again showed the genius and fore­sight of Jerenxa.
+
+***
+
+"Tarek," she summ­oned him a few weeks later, "I need you to infil­trate this cult. Use your skills to gather intell­igence and - if poss­ible, steer their beliefs toward a more constr­uctive path."
+
+Tarek grinned, his eyes glin­ting with misc­hief. As someone keen at avoi­ding actual produ­ctive work, he was hoping for an oppor­tunity to be re­levant ever since they arrived back "Home".
+"Cons­ider it done, Jerenxa. I'll weave a tale so compe­lling that they'll follow me wher­ever you say."
+
+His plan took shape: "I will lead an expedi­tion down the orbital elev­ators to Earth, which you will embrace. We will descend to Earth, to gather informa­tion and re­sources. And I will openly recruit people. To your foll­owers, its goal will be to uncover the truth behind huma­nity's vani­shing act and re­ignite the vital logis­tical netw­orks that had once conn­ected their world."
+
+Weeks later, Tarek led a massive conti­ngent of over two thou­sand rats down the orbital elev­ators, a ragtag crew that incl­uded passi­onate Ecclesiasts and opport­unistic scave­ngers alike. As they desc­ended, the weight of Earth's heavy gravity pressed down on them, a stark re­minder of the chall­enges ahead.
+
+"Toge­ther, we will take the first step to uncover the truth," Jerenxa decl­ared in her sendoff speech, her voice ringing with convic­tion. "And we will ensure that Ratkind not only surv­ives but thrives in the face of un­certainty."
+
+***
+
+What opened up to Tarek and a small group of re­searchers as the Elev­ator doors opened was surreal. They expe­cted signs of decades worth of neglect, a failing infrast­ructure, but every­thing looked clean and pris­tine. "Maybe huma­nity simply aban­doned the orbi­tals?" a rat asked with both fear and hope. "Un­likely," Tarek expl­ained, "The cities of Earth like their orbital infrast­ructure is fully auto­mated. As long as there is energy and re­sources - both more easily access­ible and easier to scale than in isol­ated orbital struc­tures, there is decay, but un­noticeable even if you leave it running for cent­uries -"
+
+They vent­ured further into the complex which was once a buzzling term­inal, the orbital anchor off the coast of Boston on the Amer­ican East coast, conne­cting the entire region to the orbital ring.
+
+All the transit systems conne­cting the term­inal to the city center were still funct­ioning. Idling, waiting for passe­ngers. Tarek conn­ected his handheld tablet which cont­ained a small amount of LAT to the first capsule waiting. And to his surp­rise it worked. A single Nano was charged for booking the entire capsule, more than enough for their crew. "I ready about it. Surge pricing. Prices are scaled to the current demand. With no passe­ngers seen for likely decades, the price even fell close to the maint­enance fees, which must be even under 1 nano, making it the theor­etical minimum. This inter­face, aimed at broad adop­tion doesn't seem to support sub-nanos. Good for us, that techn­ology sepa­rated by eons is still compat­ible."
+
+"Get us to the city center", Tarek instr­ucted to punch in their destina­tion. This is where we'll likely find answers.
+
+They found none. Boston was intact, but devoid of any life. With all maint­enance happ­ening through drones or un­derground tunnels, the streets looked pris­tine but empty. In the dist­ance a lone flying drone was pruning trees, but othe­rwise nothing.
+
+They checked a few buil­dings, but all they found were locked doors. The local market was flooded with offers. The entire city was on the market. Every single re­sidential or comme­rcial unit had its lease long expired, auto­mated systems re­cycled the left behind pers­onal items of the former re­sidents.
+When they booked a few buil­dings to gain access, what opened up to them shook them to the core. They expe­cted to find abandon­ment, maybe even corpses of the dece­ased, but every­thing looked pris­tine, staged furn­iture, waiting for new renters ever since. The few more luxu­rious options even had fresh fruit and flowers, which had been re­placed by robots for eons every day.
+
+A place locked in time, but through cons­tant - almost invis­ible - maint­enance.
+
+Even buil­dings form­erly leased by the local govern­ment were freshly staged. All traces and histo­rical records long gone and prob­ably fed to auto­mated recyclers too. Only vanity items and decora­tion listed in the lease agree­ments were left un­touched. Glim­mers of humans former past.
+
+The sign "On Brink of Second Bailout" along with other pre­cious art pieces and furn­iture was still un­touched in what the lease - igno­rant to its heri­tage called "Spac­ious Confe­rence Room - Water­front Office Buil­ding" upon them invest­igating the former Boston Court­house. But all the records were gone. Dest­royed through privacy re­gulations once the lease expired.
+
+"On closer inspec­tion, it seems that only the timechain remains as the sole histo­rical record of huma­nity" - Tarek, Year 1 AR, Surface Expedi­tion Report.
+
+What this however offered Ratkind was a clean slate. Most of the re­sources and infrast­ructure Earth had to offer was avail­able to them - assu­ming they'd be willing to spend the LAT of course.
+
+After the coming years, many valu­ables found their way up the tethers, until it happ­ened, and it was this betr­ayal, which Jerenxa's stra­tegy expe­cted to occur:
+
+The "Ecclesiasts of the Well", decl­ared indepe­ndence, and imple­mented a strict re­ligious regime, ousting all non-beli­evers to leave the surface for good.
+
+Ratkind, once united in their shared suff­ering from human­ities fist, was divided through time, space and gravity, as all things eventu­ally grow, apart.
+
+The divide prov­ided Jerenxa and her initial govern­ment with un­divided loyalty from almost ever­yone re­maining in orbit, as many right­fully feared more extreme acts from the cult.
+
+Once mutu­ally benef­icial trade agree­ments which allowed for commo­dities - but not people - were estab­lished, all orbital systems were re­established and the process of decay stopped.
+
+Under Jerenxa's leade­rship, the UOS oversaw the revival of key indus­trial and techno­logical assets, crea­ting the founda­tion for Ratkind's prosp­erous future.
+
+They estab­lished the United Orbital Struc­tures (UOS), a coali­tion desi­gned to manage and main­tain the re­activated infrast­ructure surro­unding Earth. The UOS was initi­ally founded to ensure that the re­sources avail­able to Earth's orbit would be used effic­iently and equi­tably among future Ratkind colo­nies. The LAT re­trieved from Voyager prov­ided the initial deposit to access all dormant systems, and re­establish control over all systems, incl­uding the LLS, DMN and Lagrange.
+
+While it is still, even after almost 200 years of inte­nsive re­search, not fully un­derstood what caused huma­nity's decline prior to Jerenxa's arrival, records show that by the time of her return, no orga­nized human govern­ment or auth­ority re­mained in Earth's orbit. The precise reasons for this absence are a subject of ongoing debate. What is clear, however, is that the revival of these techno­logies, funded by Voyager's LAT, allowed Ratkind to assume a central role in space gover­nance, partic­ularly through the UOS, which remains an inte­gral part of Ratkind's poli­tical and econ­omic struc­tures to this day.
+
+"The succe­ssful re­trieval of Voyager 1's re­sources and the establish­ment of the UOS set the stage for Ratkind's domi­nance in Earth's orbit and beyond." - Records of the UOS Foun­ding Docu­ments, Year 3 AR

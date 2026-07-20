@@ -1,0 +1,29 @@
+## 194 AR. Central Spire of the UOS
+
+A maglev capsule entered the Citadel - a towe­ring spire teth­ered to the heart of the Ring.
+
+Targ­eting lasers scanned the capsule, each conn­ected to massive batt­eries primed for defense. Only after full verifica­tion did the system allow passage.
+
+It floated into a huge open, pre­ssurized re­ception hall - lush with artif­icial gardens and water-feat­ures - re­plicas of biomes Ratkind had not exper­ienced in person for cent­uries.
+
+Armed robotic guards esco­rted them to the center of the citadel, and after authent­icating, stood guard outside. No AI - not even aligned ones - were perm­itted.
+
+The chamber was dim, circ­ular. A dozen sarco­phagi lined the walls, each wired into mecha­nical tubes - brutal, prim­itive-looking tech humming in silence. One of them began to open as Varok appro­ached.
+
+"You look old", Jerenxa re­marked as she opened her eyes and looked at Varok. From her persp­ective the two of them spoke yest­erday.
+
+"I assume they have arrived... Is every­thing acco­rding to plan?"
+
+"Not quite. We tried to put the pieces toge­ther, but from the 256 pawns we groomed to act in your inte­rest, only one showed promise..." He handed her his tablet, showc­asing her profile and status. "The others were too comp­liant," Jerenxa said. "Useful, but pre­dictable, too eager to believe. She still re­sisted. That made her ideal."
+
+"Good, good. I hoped for one more, but I guess defi­ance isn't as common anymore as back in the old days, re­member?"
+
+Varok re­membered. Those were vola­tile times, but they weren't fun to him. Cruder tools, simpler levers. Less burea­ucracy in the earlier years of the UOS, but little clarity. Today every­thing seems eerily inevit­able, locked in to its course - Varok liked the present a lot more.
+
+"Even after the discl­osure, you and me are among the very few who really know the fate of huma­nity. I hope I can rely on you to make sure our ulti­mate inter­ests are fulf­illed, even after the upco­ming re­volution. What we buried must serve what we prom­ised."
+
+Varok raised his conc­erns "With recent events, no doubt, the proxy biocivilisation prot­ocol will enter phase 4, but the final outcome is still -", he hesi­tated to conf­ront her, "Fluid. First surv­ival. Then re­cognition. Closure, I believe, is now inevit­able. But deter­rence? I'm not sure she'll play along."
+
+Jerenxa turned her gaze to the sarco­phagus. "Even pawns can become bishops, Varok. But only if they stay the course, and she will­ingly put herself towards the light. We did not even have to suggest it. The records show she did not hesi­tate. That told me that she was ready. I always susp­ected she'd be the one, she aligned with cons­ensus every time - except when we re­quired inter­ference."
+
+He didn't feel the need to respond. Just watched the sarco­phagus close again - sealing in not only Jerenxa, but the legacy of Ratkind he couldn't control.

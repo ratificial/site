@@ -1,0 +1,96 @@
+{
+  "title": "PUSHDATA 40.553.003",
+  "headingLevel": 2,
+  "blocks": [
+    {
+      "kind": "subheading",
+      "text": "## PUSHDATA 40.553.003",
+      "chapterHeadingPreSpacePx": 100
+    },
+    {
+      "kind": "paragraph",
+      "text": "Prinzipien der zivilen Rechtsordnung in den United Orbital Struc­tures Version 34.1 - Nach Ratkind - Kapitel 12",
+      "leadBookTypography": true
+    },
+    {
+      "kind": "paragraph",
+      "text": "Es ist Doktrin, dass Durchsetzung unter UOS-Jurisdiktion niemals diskretionär und niemals retrospektiv ist. Keine Richter oder Jury treten zusammen, keine Aussage wird gewogen, kein Plädoyer wird angehört.",
+      "leadBookTypography": false
+    },
+    {
+      "kind": "paragraph",
+      "text": "Relevante Wahrheiten sind im Moment der Besicherung fixiert, wenn Haftung vom Inhaber eines Wallets unterzeichnet und auf der Chain versiegelt wird. Was folgt, ob in einer Boul­evard-Schlägerei oder einer orbitalen Verletzung, ist nicht Rechtsprechung, sondern das vorbepreiste Entfalten von Unvermeidlichkeit.",
+      "leadBookTypography": false
+    },
+    {
+      "kind": "paragraph",
+      "text": "Identität",
+      "leadBookTypography": false
+    },
+    {
+      "kind": "paragraph",
+      "text": "Eine Person wird nicht durch Namen oder biometrische Spur erkannt, sondern durch das Wallet. Jedes Wallet ist an Sponsoren verankert - Eltern in der Kindheit, Korporationen im Erwachsenenalter, vernachlässigbare Drips für jene ohne Status. Der Inhaber handelt durch das Wallet und übernimmt Haftung für alle Transaktionen. Die Sponsoren liefern Kontinuität und Re­putation, aber Rückgriffe auf sie erfolgen nur unter expliziter Multi-Sign­ature-Besicherung. Identitätsdiebstahl besteht fort, ist aber selten: ein Wallet zu übernehmen ist oft unzureichend, man müsste auch die Haftungen der Sponsoren fälschen, und Neueinpreisung verhindern oder verzögern.",
+      "leadBookTypography": false
+    },
+    {
+      "kind": "paragraph",
+      "text": "Konzerne, Habitate und Flotten existieren ebenfalls nur durch Wallets mit Besicherungsvereinbarungen. Keine künstliche Schwerkraft wird unbesichert gegeben, kein Schiff kann eine Spur kreuzen, ohne ordentliche Deckung. Unbesichert zu existieren bedeutet unsichtbar zu sein - ohne Kollateral zu handeln bedeutet ausgelöscht zu werden.",
+      "leadBookTypography": false
+    },
+    {
+      "kind": "paragraph",
+      "text": "Haftung",
+      "leadBookTypography": false
+    },
+    {
+      "kind": "paragraph",
+      "text": "Zivile Infrastruktur befragt jede Handlung nach Kollateral. Die Frage ist immer dieselbe: ist dieser Schritt besichert? Wenn ja, schreitet die Handlung fort. Wenn nicht, setzt die Durchsetzung ein. Ein unbepreister Schlag triggert die gleiche Maschinerie wie ein unbesicherter orbitaler Burn. In beiden Fällen aktivieren sich Schutzsysteme, nicht als Strafe, sondern als Freisetzung vorab verpflichteter Gegenhaftung.",
+      "leadBookTypography": false
+    },
+    {
+      "kind": "paragraph",
+      "text": "Zonen des Zero Trust",
+      "leadBookTypography": false
+    },
+    {
+      "kind": "paragraph",
+      "text": "ZZTs sind nicht auf Passagen und Marktplätze oder private Habitate und Büros beschränkt. Sie reichen in Transitkorridore, Raumschiff-Docks und lizenzierte Bahnen des interplanetaren Raums. Innerhalb dieser Zonen ist Latenz vernachlässigbar - die Infrastruktur fragt das Wallet ab, verifiziert den Inhaber und reagiert gemäß dem eingesetzten Kollateral. Durchsetzung darf verwunden oder töten, aber der entscheidende Schlag ist ökonomisch: das verletzende Wallet wird neu bepreist, seine Risikokurve dauerhaft neu berechnet. In vielen Fällen fließt Reputationsschaden auch nach unten zu Sponsoren, die künftig höhere Reputationskosten bei der Unterzeichnung tragen müssen.",
+      "leadBookTypography": false
+    },
+    {
+      "kind": "paragraph",
+      "text": "Wie Durchsetzung entschieden wird, liegt im Ermessen der Zone. Von vollautomatisierten, nulltoleranten KI-Systemen bis zu Schwärmen biologischer Konsensarbeiter - es hängt vom bepreisten Risiko falscher oder übermäßiger Abschreckung ab und von der Besicherung der Zone selbst.",
+      "leadBookTypography": false
+    },
+    {
+      "kind": "paragraph",
+      "text": "Schädliche Ergebnisse",
+      "leadBookTypography": false
+    },
+    {
+      "kind": "paragraph",
+      "text": "Körperlicher Schaden ist nebensächlich. Ein Wallet, das einmal markiert wurde, ist für immer teuer: künftige Unterzeichner müssen zu höheren Raten besichern, Mobilität einschränken, Zugang verknappen, Flotten und Habitate stigmatisieren. Ein einziger Verstoß kann eine gesamte kooperative Linie zu Jahrzehnten strafender Besicherung verurteilen.",
+      "leadBookTypography": false
+    },
+    {
+      "kind": "paragraph",
+      "text": "Irreversibilität",
+      "leadBookTypography": false
+    },
+    {
+      "kind": "paragraph",
+      "text": "Berufungen existieren nicht. Durchsetzungsmaßnahmen, die an die Chain ratifiziert wurden, können nicht rückgängig gemacht werden. Gerechtigkeit kümmert sich nicht mehr um die Illusionen von Fair­ness, sondern um Kontinuität. Die Chain erinnert, und indem sie erinnert, bewahrt sie Vorhersagbarkeit. Erlösung, wenn sie kommt, geschieht nicht durch Re­vision, sondern durch die langsame Neubepreisung künftiger Handlungen und Verpflichtungen.",
+      "leadBookTypography": false
+    },
+    {
+      "kind": "paragraph",
+      "text": "Drips",
+      "leadBookTypography": false
+    },
+    {
+      "kind": "paragraph",
+      "text": "Identitäten bestehen nicht allein durch Kollateral, sondern durch Drips: die konstante Emis­sion von LAT aus der Chain selbst. Diese Flüsse stammen aus zwei Quellen: Gebühren, die bei der Ratifikation anfallen, und Reserven des First Bailout. Erstere hätten genügt, um den Zyklus zu perpetuieren, doch die meisten Legacy-Nodes - weiterhin menschlichen Ursprungs - geben keine Drips zurück. Sie horten Gebühren, und so fließt das Kappital nur in eine Richtung und erweitert die soziale Spaltung des First Bailout mit jedem Zyklus.",
+      "leadBookTypography": false
+    }
+  ]
+}

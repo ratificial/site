@@ -1,0 +1,116 @@
+## 194 AR. Earth, Boston
+
+A group of rats, carr­ying rifles stepped out of a drone craft which had landed next to the crash site, and helped Vaxzor climb out through the buckled hangar door of the maro­oned Spac­eship. In the backg­round, hund­reds more crafts were un­loading medical pers­onnel and equip­ment to tend after the crew - most still in torpor.
+
+The surface rats took them west­wards, flying over Boston, to the Capital of the Ecclesiasts of the Well. Tarek visibly aged, dressed in a cerem­onial outfit, was waiting for them at the top of a flight of stairs leading to a massive conc­rete brut­alist stru­cture.
+
+Vaxzor looked up, this far out, the Ring's tether conne­cting the Boston anchor to space was cutting a stra­ight line across the sky, its black, non re­flective mate­rial spli­tting the sky sharply in half.
+
+Tarek saluted to his former Captain. "Welcome to Earth, sir. I was made to believe we've lost you, sir!"
+
+***
+
+"This is your first time down the tether..." Elnara asked, as Zorkal could not stop looking out the window as they desc­ended through cloud layer after cloud layer, the surface inching closer with every minute, as more and more detail became visible.
+
+"So is yours, I assume?". Elnara shook her head. "I went down once, diplo­matic mission back in 187. Barely made it back, you know the story..."
+
+Zorkal only nodded, his thou­ghts still with recent events. A lot has happ­ened since their shared tense moments in the AVA offices. After her link to various crimes in any legis­lative system you can imagine had been trans­mitted to the enti­rety of the UOS by Zorkal, Jerenxa had been arre­sted, and the colla­teral of many corpor­ations, incl­uding AVA re­structured to ensure Zorkal's seat at the table.
+
+"I am a bit disapp­ointed" Zorkal said. "I almost looked forward to this being re­solved less quickly, I didn't expect Varok to take the bait."
+
+"You charac­terized him well when you put the pre­ssure on him, or was this just show? Yes he is strong on prin­ciple and status when it comes to our clients. But himself? He actu­ally never cared about his title - he simply wanted to make a comfort­able life for himself while foll­owing his passion for the intri­cacies of the Law. "
+
+"All I knew, he barely left the office, he slept there and was a ghost ... I assumed that was because of obses­sion with power?" - "No, he simply liked to work on cases and nothing else. His loyalty is to whoever gives him that room, but I don't think he ever cared about poli­tics. I'm glad we re­tained, he might be an asset. If you two would have met under diff­erent circum­stances, you'd prob­ably be friends..."
+
+"Lets not go that far Elnara, what happ­ened to Myla...," Zorkal swal­lowed, "I'll prob­ably never be able to forgive him for star­ting that thread."
+
+They did not speak for the rest of the trip.
+
+***
+
+After being esco­rted from the Anchor of Boston to the Ecclesiasts, Zorkal was re­united with Vaxzor at the Temple, who intro­duced ever­yone:
+
+"This is Tarek, I knew him as one of the many heroes of the Battle of the Belt, but you already know him as someone else..."
+
+After an opulent meal, they disc­ussed the disc­overy of Jerenxa's manipula­tion, the real cause of huma­nity's demise, and how it will impact the Space/Earth re­lations going forward.
+
+"That will be a hard sell to my people. You can't just end a belief over­night. We sacri­ficed too much, too much pain trying to re­strict our use of techn­ology, too many lives lost in fear of a deity you tell me never -" he thought care­fully how to phrase it: "showed any agency. We need to think about it. But the truth is out, we can only control how to spin it. Do we want to risk alien­ating ever­yone, or even accident­ally among those holding deep cont­empt raise Jerenxa to godhood, even more than she was for many in the UOS? Surely, truth never set anyone free - just burrow them under the weight of more and more to cons­ider, more lies needed to let you sleep at night."
+
+"But re­garding your request. Yes, I think facing these facts - you liter­ally dropped a truth bomb from orbit - it would be in our colle­ctive inte­rest to lift the emba­rgos and work toge­ther. When we sifted through areas not covered by auto­mated maint­enance, we found trea­sures. Some humans stored LAT priv­ately, even though it was rare to do so back then. Most of it is still to be un-earthed. Should give us addit­ional brea­thing room.
+
+And that isn't all. Once we dared to dig deeper than the topsoil the automations recycle, we found sparse ruins, some digital arch­ives, and finally addit­ional stories in the pools, never insc­ribed to the timechain.
+
+"Anyt­hing re­levant?" Zorkal's inte­rest peaked.
+
+"Mostly pers­onal stories. People comme­nting on the decline or drow­ning it out with dancing." - "Not unlike what we see in Lagrange", Zorkal re­alized cynic­ally.
+
+"But for the hard facts, no. All we knew was that bigger and bigger parts of huma­nity went into torpor. Now we know that Jerenxa played a role in it. But to what end? Where did they go? We found some torpor cham­bers, but only a few million total - all un­occupied, and not a single human found inside - not even dece­ased. It's like they left the system enti­rely or retuned to dust. It might explain some remnant mess­ages at the time, as they tell tales about flashes of light all over the sky, before the ring became shro­uded in dark­ness, decades before Ratkind re­turned."
+
+Vaxzor re­sponded to give context. "But like all texts on the timechain, they are simply worth the nanos someone was willing to pay to insc­ribe them. They can be as far away from reality, as the buyer chose to delude thems­elves and others".
+
+Tarek added: "Much like our core belief that a deity puni­shed the humans for going too far, it could be a story to hide a larger, more complex, less digest­ible and more un­comfortable truth, one we have yet to uncover, or will forever haunt us. But to many of my fellow ecclesiasts, ..."
+
+Elnara inter­rupted. "Coming to our prop­osal ... " she turned to Tarek, "we wanted to discuss today - we need to open Earth to ever­yone, especi­ally those suff­ering from low-g synd­rome while we make sure the Second Bailout is depl­oyed, we control a majo­rity of the DMN nodes and the debt spiral in Lagrange is stopped."
+
+Zorkal elabo­rated. "The goal is to do what Jerenxa negl­ected to do in almost 200 years: slowly but peace­fully over­whelm the legacy human nodes in numbers, to ensure a future not only for Lagrange, but for the enti­rety of Ratkind."
+
+He looked at Tarek, who seemed to un­derstand.
+
+"It will be a hard sell to many of my people. Our core founda­tion is still xenop­hobia and strict re­ligious doct­rine. But that's all we had at the time to ensure Jerenxa's infl­uence remains limited to the heavens. But it is the right thing to do, and we'll still run a trade surplus in the end. If we pool our re­sources and work toge­ther, we do great things. But open to ever­yone? I won't be able to sell that." he looked at Zorkal. "People with a crim­inal past for inst­ance..."
+
+Zorkal smiled at the irony. He was now in control of the second bailout. The richest person in the history of sol - yet still a crim­inal. Re­sponsible for death and destruc­tion. People still wont't trust him, or worse - trust him because of all that.
+
+"You won't have to take many. Mostly people in torpor suff­ering already. Earth can heal them, and give them a purpose. We'll find a role for anyone else in orbit. While the UOS of the past used too much colla­teral to indulge in deca­dence while anxi­ously cannib­alizing their founda­tion, we will incr­ease our infl­uence over huma­nity's re­maining nodes, and within a few ..."
+
+He looked up the proje­ctions on his tablet. The timeframe was eerily short. Hard to believe Ratkind blun­dered 2 decades.
+
+"After 4 years, 6 months to be exact - we will surpass it. We'll be able to support Lagrange long before that, maybe build another. It's poised to be a more peac­eful trans­ition, one of slowly asse­rting domi­nance, a path forward at least I will enjoy even more."
+
+"There is one more issue," Vaxzor brought up, as all of them wanted to avoid it as long as poss­ible. "Jerenxa..."
+"We still don't know her full motive, and the depth of her involve­ment. Even back in the days she played serious chess moves around ever­yone incl­uding me. A lawsuit might give some of us closure, but might also reveal a truth many might not be ready for..."
+
+Zorkal expl­ained, "While I un­derstand that the need for closure is there, we've brokered a deal. Jerenxa held consider­able colla­teral, and this was the only option to have a United UOS, un­burdened by its past."
+
+All eyes were on him. Disapp­ointed. Vaxzor didn't comment. He'd buried too much under silence already, what's one more moment.
+
+Tarek cut though the unease. "A deal?"
+
+"As narr­ative, the Second Bailout was salva­tion. Many beli­eved it meant new funds floo­ding in - capital to chal­lenge the status quo, a chance to end the misalloca­tion of power.
+
+But there's no new money. The Golden Records are iden­tical. They only unlock the spen­ding script from days long gone. Whoever holds the keys can open it on sche­dule, and whoever moves first decides the balance of power for the next four years. 
+
+Vaxzor's crew got us that much - a seat at the table."
+
+Zorkal paused, long enough for ever­yone to feel their skin crawl.
+
+"But during the talks it became clear: to Jerenxa, it was never about winning that race. It was the long-planned cash-out - turning us into exit liqu­idity. She didn't lose the game. She stopped playing."
+
+Elnara opened the LLS records on her tablet: "As evident. shortly after the inci­dent and the Halfin landing on Earth, a spac­eship booked LLS and DMN accelera­tion out of the SOL system at inter­stellar escape velo­city."
+
+She turned the display. 
+
+"The specifica­tion showed a space­craft, a two person torpor capsule within a very small frame and a Bussard ramjet drive that would be able to contin­uously accel­erate drawing from the inter­stellar medium after pushed to over 0.1c.
+
+Tarek summa­rized: "Exile?"
+
+"Yes, this was the only demand Jerenxa's legal team had, in exch­ange of the UOS' entire LAT stru­cture incl­uding the LLS. Time-locked until the craft had reached its target velo­city, which will be in a few years. And to pick the destina­tion".
+
+Elnara cont­inued: "What you'll find partic­ularly inter­esting, the target is within a Deep Field"
+"Which means?" Zorkal, until now igno­rant to that detail.
+
+"A very sparse region of space which is very very far away, even at inter­galactic scales. If she is esca­ping, she isn't going to another solar system, or even another galaxy. She is trav­eling to the end of time. She'll become the silence she'd once expl­oited."
+
+Jerenxa's exile was the final clause in a larger cont­ract, masked as punish­ment but exec­uted as priv­ilege. It was the mome­ntum gene­rated by the teams discl­osures - backed by cons­ensus-anch­ored proof - that allowed her depa­rture to be re­framed for public consump­tion as penance. In reality, it was her acces­sion to trans­cendence. The final puzzle piece in a cent­uries-old design.
+
+As Jerenxa stated in her final declas­sified appea­rance after the Re­volution of 194 AR:
+
+"Ratkind did not simply survive the great coll­apse - we recast all of you as its answer. All I did was give you a myth, and the func­tion."
+
+***
+
+The ride back up the tether was long and boring, but not as boring as the re­structuring ahead. They had won, but at a cost. Zorkal poured himself a glass as he watched the clouds flow sile­ntly by. He hadn't paid much atten­tion to the second half of the negoti­ations. Too much had happ­ened in the past few days, and there wasn't enough time - or energy - to process any of it.
+
+But now, as his body had time to relax, his mind conn­ected. He re­membered a detail from the deep field report, and as he un­derstood, the glass dropped from his hand. It shat­tered as it hit the metal floor, but he didn't hear the sound of it brea­king, didn't feel the shards of glass cutting into his legs. All he felt was the gravity of his re­alization, as his mind faced the inevit­able conclu­sion. And while he re­assembled the frag­ments of the pattern emer­ging, he didn't even need to look at the confirma­tion. It felt un­necessarily to even query Myla's loca­tion, just as the defi­ning sent­ence from the report burr­owing into his soul forever:
+
+    A two person torpor capsule.
+

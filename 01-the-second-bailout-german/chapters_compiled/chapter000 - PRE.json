@@ -1,0 +1,40 @@
+{
+  "title": "Protokollhinweis",
+  "headingLevel": 2,
+  "blocks": [
+    {
+      "kind": "subheading",
+      "text": "## Protokollhinweis",
+      "chapterHeadingPreSpacePx": 100
+    },
+    {
+      "kind": "paragraph",
+      "text": "Ratifica­tion: The Second Bailout",
+      "leadBookTypography": true
+    },
+    {
+      "kind": "paragraph",
+      "text": "von H.B. Rattinger",
+      "leadBookTypography": false
+    },
+    {
+      "kind": "divider",
+      "text": "---"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Alle Rechte vorbehalten. Kein Teil dieses Buches darf ohne vorherige schriftliche Genehmigung des Autors in irgendeiner Form oder mit irgendwelchen Mitteln, elektronisch oder mechanisch, reproduziert oder uebertragen werden, mit Ausnahme von kurzen Zitaten, die in Rezensionen verwendet werden.",
+      "leadBookTypography": true
+    },
+    {
+      "kind": "paragraph",
+      "text": "Dieses Buch wurde mit Hilfe von künstlicher Intelligenz vom englischen Originalmanuskript in die deutsche Sprache übersetzt.",
+      "leadBookTypography": false
+    },
+    {
+      "kind": "paragraph",
+      "text": "Dies ist ein Werk der Fiktion. Namen, Figuren, Orte und Ereignisse sind entweder Produkte der Vorstellungskraft des Autors oder werden fiktiv verwendet. Jede Aehnlichkeit mit tatsaechlichen Personen, lebend oder tot, Organisationen oder Ereignissen ist rein zufaellig.",
+      "leadBookTypography": false
+    }
+  ]
+}

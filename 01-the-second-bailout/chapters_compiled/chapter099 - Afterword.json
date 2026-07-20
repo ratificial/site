@@ -1,0 +1,45 @@
+{
+  "title": "Afte­rword",
+  "headingLevel": 1,
+  "blocks": [
+    {
+      "kind": "subheading",
+      "text": "# Afte­rword",
+      "chapterHeadingPreSpacePx": 100
+    },
+    {
+      "kind": "paragraph",
+      "text": "Thank you for reading \"Ratifica­tion: The Second Bailout\", and I sinc­erely hope you enjoyed it. There are more stories to tell in the Ratifica­tion un­iverse.",
+      "leadBookTypography": true
+    },
+    {
+      "kind": "paragraph",
+      "text": "Please cons­ider leaving a review. Your feed­back may help shape future edit­ions and volumes.",
+      "leadBookTypography": false
+    },
+    {
+      "kind": "paragraph",
+      "text": "Thank you for reading and for re­specting the fragile trust this exch­ange implies, in a world increas­ingly desi­gned to func­tion without any.",
+      "leadBookTypography": false
+    },
+    {
+      "kind": "paragraph",
+      "text": "",
+      "leadBookTypography": false
+    },
+    {
+      "kind": "paragraph",
+      "text": "",
+      "leadBookTypography": false
+    },
+    {
+      "kind": "paragraph",
+      "text": "",
+      "leadBookTypography": false
+    },
+    {
+      "kind": "divider",
+      "text": "---"
+    }
+  ]
+}

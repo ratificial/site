@@ -1,0 +1,268 @@
+{
+  "title": "PUSHDATA 38.154.004",
+  "headingLevel": 2,
+  "blocks": [
+    {
+      "kind": "subheading",
+      "text": "## PUSHDATA 38.154.004",
+      "chapterHeadingPreSpacePx": 100
+    },
+    {
+      "kind": "paragraph",
+      "text": "Prinzipien der zivilen Schutzdurchsetzung in den United Orbital Struc­tures Auszug aus \"The Ascen­dancy of Ratkind\" - ein historischer Fiktionsroman, Ausgabe 23",
+      "leadBookTypography": true
+    },
+    {
+      "kind": "paragraph",
+      "text": "Kapitel 16: Der Aufstieg Jerenxas und die Morgendämmerung von Ratkind",
+      "leadBookTypography": false
+    },
+    {
+      "kind": "paragraph",
+      "text": "Nach dem Abschluss der Schlacht um den Asteroidengürtel, in der die Ratkind-Flotte die abtrünnigen KI-Entitäten, bekannt als Tabbies, nicht zurückschlagen konnte, befand sich die Flotte in einem prekären Zustand. Mit geschrumpften Ressourcen und keinem sicheren Zufluchtsort, zu dem sie sich zurückziehen konnte, traf Captain Jerenxa, Kommandantin der USS Nakamoto, die strategische Entscheidung, ihr Schiff in Richtung Voyager 1 umzuleiten.",
+      "leadBookTypography": false
+    },
+    {
+      "kind": "paragraph",
+      "text": "Diese Entscheidung basierte auf historischen Aufzeichnungen, die darauf hindeuteten, dass erhebliche LAT-Reserven von einer anonymen Gruppe Jahrhunderte zuvor in der Sonde gelagert worden waren. Diese Reserven, von den meisten vergessen, hatten das Potenzial, Ratkind das notwendige Kapital zu geben, um in einem System, das für alle außer den Wohlhabenden feindlich war, Fuß zu fassen.",
+      "leadBookTypography": false
+    },
+    {
+      "kind": "paragraph",
+      "text": "Nach Erreichen der Voyager 1 konnte Jerenxas Crew das an Bord der Sonde gelagerte LAT erfolgreich bergen. Die Reise war jedoch nicht ohne Schwierigkeiten. Die Crew der Nakamoto sah sich zahlreichen Härten gegenüber, darunter mechanische Ausfälle und die Belastung langer Raumreisen. Trotz dieser Herausforderungen markierte die Bergung des LAT einen Wendepunkt für die Flotte, da sie die Ressourcen bereitstellte, die für eine sichere Rückkehr zur Erde notwendig waren, und ihre wirtschaftliche Macht nach der Heimkehr sicherstellte.",
+      "leadBookTypography": false
+    },
+    {
+      "kind": "paragraph",
+      "text": "Es war nach der Rückreise, dass Jerenxa und ihre Crew eine bedeutende, aber beängstigende Entdeckung machten: alle Kommunikation von der Erde war verstummt. Historisch war die Erde das Zentrum der menschlichen Zivilisation gewesen, doch zum Zeitpunkt von Jerenxas Annäherung wurden keine Signale gesendet, und keine aktiven Kommunikationsverbindungen außer der automatisierten Übertragung einer leeren Timechain konnten gefunden werden. Während die Abwesenheit menschlicher Aktivität unerwartet war, versetzte die Bergung des LAT Jerenxa in die Lage, die Situa­tion auszunutzen.",
+      "leadBookTypography": false
+    },
+    {
+      "kind": "paragraph",
+      "text": "Im Jahr 1 AR (After Ratkind), gekennzeichnet durch Jerenxas Eintritt in den Erdorbit, ergriff Jerenxa sofort Maßnahmen, um die von der Menschheit hinterlassene schlafende Infrastruktur wiederherzustellen und zu reaktivieren. Während Jerenxa und ihre tapfere Crew mit einer Infrastruktur konfrontiert waren, die schwer vernachlässigt war und deren meiste Systeme hinter LAT-Verträgen gesperrt waren, ohne dass noch eine Gegenpartei lebte.",
+      "leadBookTypography": false
+    },
+    {
+      "kind": "paragraph",
+      "text": "Zu ihrer Überraschung war das DMN - wie es für volle Autonomie ausgelegt war - noch vollständig intakt, und während der langen Reise der Nakamoto hatte die Menschheit einen Orbitalring - ähnlich dem auf dem Mond - über ihrem Heimatplaneten errichtet.",
+      "leadBookTypography": false
+    },
+    {
+      "kind": "paragraph",
+      "text": "Da der Ring das Habitat war, das erstklassigen Zugang zur Oberfläche bot und die einzige verbleibende funktionierende Struktur war, entschied Jerenxa, ihn zu ihrem ersten Ziel zu machen.",
+      "leadBookTypography": false
+    },
+    {
+      "kind": "paragraph",
+      "text": "Das von Voyager 1 geborgene LAT erwies sich als entscheidend, da es die Reparatur und Reaktivierung vieler kritischer Systeme ermöglichte. Ohne diese Mittel ist es unwahrscheinlich, dass Ratkind das Niveau der technologischen Erholung erreicht hätte, das in den frühen Jahren der UOS zu beobachten war.",
+      "leadBookTypography": false
+    },
+    {
+      "kind": "divider",
+      "text": "***"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Der heroische Rückkehr von Ratkind war jedoch nicht ohne Probleme. Als die Crew des Raumschiffs USS Nakamoto den Ring langsam besiedelte und versuchte, ihn zu ihrem Zuhause zu machen, wurde die zugrunde liegende Atmosphäre dicker und schwerer vor Unruhe. Die unheimliche Hintergrundgeschichte des plötzlichen Verschwindens der Menschheit verbreitete sich wie ein Lauffeuer unter der ehemaligen Crew und entzündete einen Eifer, den Jerenxa, nun als oberste Schiedsrichterin einer hastig gegründeten Regierung, nicht ignorieren konnte.",
+      "leadBookTypography": true
+    },
+    {
+      "kind": "paragraph",
+      "text": "Marika, ihr früherer erster Offizier, kam im wöchentlichen \"State of Things\"-Meeting direkt zum Punkt.",
+      "leadBookTypography": false
+    },
+    {
+      "kind": "paragraph",
+      "text": "\"Kommen wir zu dem - meiner Meinung nach - dringendsten Thema: die Entrückung\", ihre Augen weit vor Angst - oder war es Euphorie? \"Wie alle wohl schon gehört haben, laut der Timechain war es eine Entrückung! Die Menschen wurden von ihrem Gott geholt!\"",
+      "leadBookTypography": false
+    },
+    {
+      "kind": "paragraph",
+      "text": "Jerenxa, auf ihrem Stuhl sitzend, wandte sich an ihre frühere Crew. \"Wir müssen rati­onal bleiben\", drängte sie, ihre Stimme ruhig, aber fest. \"Auch wenn ja - es das ist, an das viele Menschen damals offenbar geglaubt haben, so sind das immer noch nur Gerüchte, geboren aus Angst und Unsicherheit. Wir können nicht zulassen, dass Aberglaube unser Handeln bestimmt.\"",
+      "leadBookTypography": false
+    },
+    {
+      "kind": "paragraph",
+      "text": "Aber Marika ließ nicht locker, \"Wir können die deutlichen Zeichen der Entrückung nicht ignorieren!\" rief sie, ihre Stimme hallte durch die grell beleuchtete Kammer. \"Gott hat die Menschen für ihren Hochmut bestraft! Wenn auch nur eine geringe Chance besteht, dass es wahr ist, können wir es nicht riskieren, diese Gottheit ebenfalls zu erzürnen, indem wir versuchen, den Himmel zurückzuerobern!\"",
+      "leadBookTypography": false
+    },
+    {
+      "kind": "paragraph",
+      "text": "Jerenxa spürte einen Knoten in ihrem Magen. Sie wusste, dass sie eine schwierige Wahl hatte: dieses Narrativ abzutun und zu riskieren, dass es zu einer gewaltigen Kraft anwuchs, oder es frontal zu konfrontieren und es möglicherweise zu nutzen, um Ratkind unter einem größeren Zweck zu vereinen.",
+      "leadBookTypography": false
+    },
+    {
+      "kind": "paragraph",
+      "text": "\"Marika\", sagte sie leicht herablassend, \"Angst ist keine gültige Politik. Dein Vorschlag gefährdet uns alle, die gesamte Ratkind. Wir müssen die tatsächliche Wahrheit hinter dem Verschwinden der Menschheit suchen, nicht sie verbergen oder unter einem Schleier des Aberglaubens begraben.\"",
+      "leadBookTypography": false
+    },
+    {
+      "kind": "paragraph",
+      "text": "Aber Marika ließ sich nicht abschrecken. \"Du würdest uns in die Kiefer des Unbekannten führen?\" Sie hob ihre Stimme. \"Was, wenn wir für unsere Neugier bestraft werden?\"",
+      "leadBookTypography": false
+    },
+    {
+      "kind": "paragraph",
+      "text": "In diesem Moment erkannte Jerenxa, dass sie eine Strategie brauchte, einen Weg, sich in diesem tückischen Gelände zu bewegen.",
+      "leadBookTypography": false
+    },
+    {
+      "kind": "paragraph",
+      "text": "In Tarek, einem populären Helden der Schlacht des Gürtels - dem mutigen Piloten, der ihr erlaubte, die Nakamoto zu übernehmen und zu retten - fand sie ihren perfekten Doppelagenten. Eine Expedi­tion die Orbitaufzüge hinunter zur Erde war unvermeidlich, um weitere Hinweise auf das Verschwinden der Menschheit zu finden und das dringend benötigte logistische Netzwerk wieder zu starten, doch sie stieß auf Widerstand vieler Ratten, biologisch nicht gut an die schwere Schwerkraft und die ungefilterte Atmosphäre der Erde angepasst.",
+      "leadBookTypography": false
+    },
+    {
+      "kind": "paragraph",
+      "text": "Es war eine perfekte Übereinstimmung der Anreize und zeigte erneut Jerenxas Genie und Weitsicht.",
+      "leadBookTypography": false
+    },
+    {
+      "kind": "divider",
+      "text": "***"
+    },
+    {
+      "kind": "paragraph",
+      "text": "\"Tarek\", rief sie ihn ein paar Tage später, \"ich brauche dich, um diesen Kult zu infiltrieren. Nutze deine Fähigkeiten, um Informationen zu sammeln und - wenn möglich - ihre Überzeugungen in eine konstruktivere Richtung zu lenken.\"",
+      "leadBookTypography": true
+    },
+    {
+      "kind": "paragraph",
+      "text": "Tarek grinste, seine Augen glitzerten vor Schalk. Als jemand, der produktive Arbeit geschickt vermied, hoffte er seit ihrer Rückkehr \"nach Hause\" auf eine Gelegenheit, wieder etwas re­levant zu sein. \"Betrachte es als erledigt, Jerenxa. Ich werde eine Geschichte spinnen, so überzeugend, dass sie mir folgen, wohin auch immer du es sagst.\"",
+      "leadBookTypography": false
+    },
+    {
+      "kind": "paragraph",
+      "text": "Sein Plan nahm Gestalt an: \"Ich werde eine Expedi­tion die Orbitaufzüge hinunter zur Erde anführen, die du unterstützen wirst. Wir werden zur Erde hinabsteigen, um Informationen und Ressourcen zu sammeln. Und ich werde offen Leute rekrutieren. Für deine Anhänger wird das Ziel sein, die Wahrheit hinter dem Verschwinden der Menschheit zu enthüllen und die lebenswichtigen logistischen Netzwerke wiederzubeleben, die einst ihre Welt verbanden.\"",
+      "leadBookTypography": false
+    },
+    {
+      "kind": "paragraph",
+      "text": "Wochen später führte Tarek ein massives Kontingent von über zweitausend Ratten die Orbitaufzüge hinunter, eine zusammengewürfelte Crew, die sowohl leidenschaftliche Prediger als auch opportunistische Plünderer umfasste. Als sie hinabstiegen, drückte das Gewicht der schweren Erdschwerkraft auf sie, eine harte Erinnerung an die Herausforderungen, die vor ihnen lagen.",
+      "leadBookTypography": false
+    },
+    {
+      "kind": "paragraph",
+      "text": "\"Gemeinsam werden wir den ersten Schritt tun, um die Wahrheit zu entdecken\", erklärte Jerenxa in ihrer Abschiedsrede, ihre Stimme klang vor Überzeugung. \"Und wir werden sicherstellen, dass Ratkind nicht nur überlebt, sondern in der Angesicht der Ungewissheit gedeiht.\"",
+      "leadBookTypography": false
+    },
+    {
+      "kind": "divider",
+      "text": "***"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Was sich Tarek und einer kleinen Gruppe von Forschern eröffnete, als sich die Türen des Aufzugs öffneten, war surreal. Sie erwarteten Zeichen jahrzehntelanger Vernachlässigung, eine versagende Infrastruktur, aber alles sah sauber und makellos aus. \"Vielleicht hat die Menschheit die Orbitale einfach verlassen?\" fragte eine Ratte mit Angst und Hoffnung zugleich. \"Unwahrscheinlich\", erklärte Tarek, \"die Städte der Erde und ihre Orbitinfrastruktur sind vollständig automatisiert. Solange es Energie und Ressourcen gibt - beide leichter zugänglich und leichter skalierbar als in isolierten Orbitalstrukturen - gibt es zwar laufend Verfall im Großen, aber er ist selbst dann unmerklich, wenn man es Jahrhunderte laufen lässt -\"",
+      "leadBookTypography": true
+    },
+    {
+      "kind": "paragraph",
+      "text": "Sie drangen weiter in den Komplex vor, der einst ein geschäftiges Term­inal gewesen war, der Orbitalanker vor der Küste Bostons an der amerikanischen Ostküste, der die gesamte Region mit dem Orbitalring verband.",
+      "leadBookTypography": false
+    },
+    {
+      "kind": "paragraph",
+      "text": "Alle Transitsysteme, die das Term­inal mit dem Stadtzentrum verbanden, funktionierten noch. Im Leerlauf, wartend auf Passagiere. Tarek verband sein Handheld-Tablet, das eine geringe Menge LAT enthielt, mit der ersten wartenden Kapsel. Und zu seiner Überraschung funktionierte es umgehend. Ein einzelnes Nano wurde für die Buchung der gesamten Kapsel berechnet, mehr als genug für ihre Crew. \"Ich habe darüber gelesen. Surge Pricing. Preise skalieren mit der aktuellen Nachfrage. Ohne Passagiere seit vermutlich Jahrzehnten fiel der Preis sogar nahe an die Wartungsgebühren, die wohl unter 1 Nano liegen, womit es das theoretische Minimum ist. Dieses Inter­face, auf breite Adop­tion ausgelegt, scheint keine Sub-Nanos zu unterstützen. Gut für uns, dass Technologie, die Jahrhunterte trennen, noch kompatibel ist.\"",
+      "leadBookTypography": false
+    },
+    {
+      "kind": "paragraph",
+      "text": "\"Bring uns ins Stadtzentrum\", wies Tarek an, ihr Ziel einzugeben. Dort werden wir wahrscheinlich Antworten finden.",
+      "leadBookTypography": false
+    },
+    {
+      "kind": "paragraph",
+      "text": "Sie fanden keine.",
+      "leadBookTypography": false
+    },
+    {
+      "kind": "paragraph",
+      "text": "Boston war intakt, aber ohne Leben. Da alle Wartung durch Drohnen oder unterirdische Tunnel geschah, sahen die Straßen makellos, aber leer aus. In der Ferne trimmte eine einzelne fliegende Drohne einen Baum, aber sonst nichts. Stille und nur das rauschen des Windes.",
+      "leadBookTypography": false
+    },
+    {
+      "kind": "paragraph",
+      "text": "Sie prüften ein paar Gebäude, aber fanden nur verschlossene Türen. Der lokale Markt war mit Angeboten überflutet. Die ganze Stadt stand zum Angebot. Jede einzelne Wohn- oder Geschäftseinheit hatte ihre Mieter längst verloren, automatisierte Systeme recycelten die zurückgelassenen persönlichen Gegenstände der ehemaligen Bewohner.",
+      "leadBookTypography": false
+    },
+    {
+      "kind": "paragraph",
+      "text": "Als sie ein paar Gebäude buchten, um Zugang zu erhalten, erschütterte sie, was sich ihnen eröffnete. Sie hatten Verlassenheit erwartet, vielleicht sogar die Leichen der Verstorbenen, aber alles sah makellos aus, inszenierte Möbel, die seit Ewigkeiten auf neue Mieter warteten. Die wenigen luxuriöseren Optionen hatten sogar frische Früchte und Blumen, die seit Äonen täglich von Robotern ersetzt worden waren.",
+      "leadBookTypography": false
+    },
+    {
+      "kind": "paragraph",
+      "text": "Ein Ort, der in der Zeit eingefroren war, aber durch konstante - fast unsichtbare - Wartung.",
+      "leadBookTypography": false
+    },
+    {
+      "kind": "paragraph",
+      "text": "Selbst Gebäude, die einst von der lokalen Regierung gemietet waren, waren frisch inszeniert. Die meisten Spuren und historischen Aufzeichnungen längst weg und vermutlich ebenfalls den automatisierten Recyclern zugeführt. Nur Eitelkeitsgegenstände und Dekoration, die in den Mietverträgen gelistet waren, blieben unangetastet. Glimmer menschlicher Vergangenheit.",
+      "leadBookTypography": false
+    },
+    {
+      "kind": "paragraph",
+      "text": "Das Schild \"On Brink of Second Bailout\" zusammen mit anderen kostbaren Kunstwerken und Möbeln war noch unberührt in dem, was der Mietvertrag - igno­rant gegenüber seinem Erbe - \"Spac­ious Confe­rence Room - Water­front Office Buil­ding\" nannte, als sie das ehemalige Bostoner Gerichtsgebäude untersuchten. Aber alle Aufzeichnungen waren weg. Durch Datenschutzregeln für immer vernichtet, sobald die Mietkautation ausgelaufen war.",
+      "leadBookTypography": false
+    },
+    {
+      "kind": "paragraph",
+      "text": "\"Bei näherer Betrachtung scheint nur die Timechain als einziges historisches Protokoll der Menschheit zu bleiben\" - Tarek, Jahr 1 AR, Oberflächen-Expeditionsbericht.",
+      "leadBookTypography": false
+    },
+    {
+      "kind": "paragraph",
+      "text": "Was dies Ratkind jedoch bot, war ein sauberer Neuanfang. Die meisten Ressourcen und Infrastrukturen, die die Erde zu bieten hatte, standen ihnen zur Verfügung - vorausgesetzt, sie waren bereit, das LAT zu bezahlen.",
+      "leadBookTypography": false
+    },
+    {
+      "kind": "paragraph",
+      "text": "In den folgenden Jahren fanden Güter, Maschinen und Wertsachen ihren Weg die Tethers hinauf, bis es geschah, und es war dieser Verrat, dessen Eintreten Jerenxas Strategie erwartete:",
+      "leadBookTypography": false
+    },
+    {
+      "kind": "paragraph",
+      "text": "Die \"Prediger der Schwerkraft\" erklärten die Unabhängigkeit und implementierten ein striktes religiöses Regime, jagten alle Ungläubigen fort, die Oberfläche endgültig zu verlassen.",
+      "leadBookTypography": false
+    },
+    {
+      "kind": "paragraph",
+      "text": "Ratkind, einst vereint im gemeinsamen Leiden unter der Faust der Menschheit, wurde durch Zeit, Raum und Schwerkraft getrennt, wie alle Dinge schließlich auseinanderdriften.",
+      "leadBookTypography": false
+    },
+    {
+      "kind": "paragraph",
+      "text": "Die Spaltung verschaffte Jerenxa und ihrer anfänglichen Regierung ungeteilte Loyalität von fast allen, die in der Umlaufbahn blieben, da viele zu Recht extremere Handlungen des Kults fürchteten.",
+      "leadBookTypography": false
+    },
+    {
+      "kind": "paragraph",
+      "text": "Sobald gegenseitig vorteilhafte Handelsabkommen - streng kontrolliert durch die religiöse Doktrin Tareks und technokratischer Bürokratie der Orbitalbewohner - etabliert waren, die Waren - aber keinen Personenverkehr - ermöglichten, wurden letztlich alle Orbitalsysteme wiederhergestellt und der Verfall gestoppt.",
+      "leadBookTypography": false
+    },
+    {
+      "kind": "paragraph",
+      "text": "Unter Jerenxas Führung überwachte die UOS die Wiederbelebung zentraler industrieller und technologischer Assets und schuf damit die Grundlage für Ratkinds prosperierende Zukunft.",
+      "leadBookTypography": false
+    },
+    {
+      "kind": "paragraph",
+      "text": "Sie gründeten die United Orbital Struc­tures (UOS), eine Koalition, die dazu bestimmt war, die reaktivierte Infrastruktur um die Erde zu verwalten und zu erhalten. Die UOS wurde ursprünglich gegründet, um sicherzustellen, dass die Ressourcen im Erdorbit effizient und gerecht unter zukünftigen Ratkind-Kolonien genutzt würden. Das von Voyager geborgene LAT lieferte die erste Einlage, um alle schlafenden Systeme zu öffnen und die Kontrolle über alle Systeme wiederherzustellen, einschließlich LLS, DMN und Lagrange.",
+      "leadBookTypography": false
+    },
+    {
+      "kind": "paragraph",
+      "text": "Auch wenn bis heute, selbst nach fast 200 Jahren intensiver Forschung, nicht vollständig verstanden ist, was den Niedergang der Menschheit vor Jerenxas Ankunft verursachte, zeigen Aufzeichnungen, dass zum Zeitpunkt ihrer Rückkehr keine organisierte menschliche Regierung oder Autorität im Erdorbit vorhanden war.",
+      "leadBookTypography": false
+    },
+    {
+      "kind": "paragraph",
+      "text": "Die genauen Gründe für diese Abwesenheit sind Gegenstand laufender Debatten. Klar ist jedoch, dass die Wiederbelebung dieser Technologien, finanziert durch Voya­gers Kollateral, Ratkind erlaubte, eine zentrale Rolle im Sonnensystem zu übernehmen, insbesondere durch die UOS, die bis heute ein integraler Bestandteil der politischen und wirtschaftlichen Strukturen von Ratkind bleibt.",
+      "leadBookTypography": false
+    },
+    {
+      "kind": "paragraph",
+      "text": "\"Die erfolgreiche Bergung der Ressourcen von Voyager 1 und die Gründung der UOS bereiteten den Boden für Ratkinds Dominanz im Erdorbit und darüber hinaus.\" - Aufzeichnungen der UOS-Gründungsdokumente, Jahr 3 AR",
+      "leadBookTypography": false
+    }
+  ]
+}

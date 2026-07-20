@@ -1,0 +1,210 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+  <title>Ratification: The Second Bailout</title>
+  <link rel="icon" type="image/svg+xml" href="./rat-icon-001.svg">
+  <style>
+    :root {
+      --bg: #090c11;
+      --panel: rgba(8, 12, 18, 0.44);
+      --panel-border: rgba(234, 220, 196, 0.22);
+      --text: #f5efe4;
+      --muted: #c8b8a0;
+      --accent: #e3ba72;
+      --accent-dim: #ab8550;
+    }
+    * { box-sizing: border-box; }
+    html, body { margin: 0; min-height: 100%; }
+    body {
+      font-family: "Exo 2", "Source Sans 3", sans-serif;
+      color: var(--text);
+      background: var(--bg);
+      position: relative;
+      overflow-x: hidden;
+    }
+    .bg {
+      position: fixed;
+      inset: 0;
+      background: linear-gradient(120deg, rgba(4, 8, 14, 0.88), rgba(8, 12, 18, 0.70)), url("./S05_halfin.png") center 18% / cover no-repeat;
+      z-index: -2;
+    }
+    .grain {
+      position: fixed;
+      inset: 0;
+      background-image: radial-gradient(rgba(255,255,255,0.06) 0.5px, transparent 0.5px);
+      background-size: 2px 2px;
+      opacity: 0.14;
+      z-index: -1;
+      pointer-events: none;
+    }
+    .wrap {
+      min-height: 100dvh;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      padding: 28px;
+    }
+    .panel {
+      width: min(860px, 100%);
+      border: 1px solid transparent;
+      background: var(--panel);
+      backdrop-filter: none;
+      border-radius: 14px;
+      padding: 26px 24px;
+      box-shadow: 0 24px 70px rgba(0, 0, 0, 0.45);
+    }
+    h1 {
+      margin: 0 0 8px;
+      font-family: "Space Grotesk", "Exo 2", sans-serif;
+      text-transform: uppercase;
+      letter-spacing: 0.02em;
+      font-size: clamp(30px, 6vw, 52px);
+      line-height: 1.02;
+    }
+    .subtitle {
+      margin: 0 0 18px;
+      color: var(--muted);
+      letter-spacing: 0.16em;
+      text-transform: uppercase;
+      font-family: "Space Grotesk", sans-serif;
+      font-size: 12px;
+    }
+    .summary {
+      margin: 0 0 20px;
+      line-height: 1.55;
+      max-width: 68ch;
+      color: #f2e9db;
+    }
+    .cover-inline {
+      float: right;
+      width: min(260px, 34%);
+      margin: 2px 0 12px 18px;
+      border-radius: 10px;
+      overflow: hidden;
+      border: 1px solid rgba(227, 186, 114, 0.26);
+      box-shadow: 0 10px 30px rgba(0, 0, 0, 0.36);
+      background: rgba(0, 0, 0, 0.2);
+    }
+    .cover-inline img {
+      width: 100%;
+      display: block;
+      height: auto;
+    }
+    .cover-inline.mobile-only { display: none; }
+    .links-section {
+      margin: 8px 0 18px;
+    }
+    .links-section h2 {
+      margin: 0 0 8px;
+      font-size: 13px;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+      color: var(--muted);
+      font-family: "Space Grotesk", sans-serif;
+    }
+    .links-group {
+      margin: 0 0 10px;
+    }
+    .links-group:last-child {
+      margin-bottom: 0;
+    }
+    .card {
+      border: none;
+      border-radius: 10px;
+      padding: 12px;
+      background: transparent;
+    }
+    .card h2 {
+      margin: 0 0 8px;
+      font-size: 13px;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+      color: var(--muted);
+      font-family: "Space Grotesk", sans-serif;
+    }
+    .links { display: flex; flex-wrap: wrap; gap: 8px; }
+    a.link {
+      display: inline-block;
+      text-decoration: none;
+      color: var(--accent);
+      border: 1px solid rgba(227, 186, 114, 0.45);
+      border-radius: 8px;
+      padding: 7px 10px;
+      font-size: 14px;
+    }
+    a.link:hover { color: #1c1306; background: var(--accent); border-color: var(--accent); }
+    .contact {
+      margin-top: 8px;
+      color: var(--muted);
+      font-size: 14px;
+    }
+    .contact a { color: var(--accent); text-decoration: none; }
+    .contact a:hover { color: #fff; }
+    @media (max-width: 760px) {
+      .wrap { align-items: flex-end; padding: 12px; }
+      .panel { padding: 16px 14px; border-radius: 10px; }
+      .links-group { margin-bottom: 12px; }
+      .cover-inline.desktop-only { display: none; }
+      .cover-inline.mobile-only { display: block; }
+      .cover-inline {
+        float: none;
+        width: min(340px, 100%);
+        margin: 0 0 14px;
+      }
+    }
+  </style>
+</head>
+<body>
+  <div class="bg" aria-hidden="true"></div>
+  <div class="grain" aria-hidden="true"></div>
+  <main class="wrap">
+    <section class="panel">
+      <h1>Ratification</h1>
+      <p class="subtitle">The Second Bailout</p>
+      <figure class="cover-inline desktop-only" aria-label="Book cover">
+        <img src="./cover002.jpg" alt="Cover of Ratification: The Second Bailout">
+      </figure>
+      <p class="summary">
+
+        On the brink of a Second Bailout - in a civilization where truth is prepaid and sealed on the timechain - the Fermi paradox has been solved.
+
+        Vaxzor, a genetically engineered rat, is sent to command a fleet tasked with breaking humanity out of its cosmic zoo. Centuries later, Myla, a low-level defense operator, stumbles upon a forbidden signal that could unravel everything she was trained to obey. Zorkal, a disgraced barrister drowning himself in regret, grasps at one last chance to matter.
+      </p>
+      <figure class="cover-inline mobile-only" aria-label="Book cover">
+        <img src="./cover002.jpg" alt="Cover of Ratification: The Second Bailout">
+      </figure>
+      <p class="summary">
+        Their fates collide across law, myth, and war - in a world built on collateral and consensus, where contracts are enforced by physics itself, belief is indistinguishable from protocol, and truth is only what the chain agrees to ratify.
+      </p>
+      <p class="summary"></p>
+        Blending hard science fiction and cypherpunk manifesto with a legal thriller’s precision, 
+        <em>Ratification: The Second Bailout</em> asks what it costs to survive in a world of commodified truth. 
+      </p>
+
+      <section class="links-section">
+        <h2>Read Online for Free</h2>
+        <div class="links links-group">
+          <a class="link" href="./01-the-second-bailout/">🇬🇧 App (English)</a>
+          <a class="link" href="./01-the-second-bailout-german/">🇩🇪 App (Deutsch)</a>
+        </div>
+
+        <h2>Get Your Print</h2>
+        <div class="links links-group">
+          <a class="link" href="https://mybook.to/ratification" target="_blank" rel="noopener">🇬🇧 Amazon (EN)</a>
+          <a class="link" href="https://amzn.eu/d/41M8VnT" target="_blank" rel="noopener">🇩🇪 Amazon (DE)</a>
+        </div>
+
+        <h2>Download Offline</h2>
+        <div class="links links-group">
+          <a class="link" href="./01-the-second-bailout/Ratification.pdf">🇬🇧 PDF</a>
+          <a class="link" href="./01-the-second-bailout-german/Ratification.pdf">🇩🇪 PDF</a>
+        </div>
+      </section>
+
+      <p class="contact">Contact: <a href="mailto:visitor@ratificial.com">visitor@ratificial.com</a></p>
+    </section>
+  </main>
+</body>
+</html>

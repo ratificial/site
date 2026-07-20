@@ -1,0 +1,148 @@
+## Vor Ratkind. Asteroidengürtel
+
+Gegen die unbarmherzige Dunkelheit des Weltraums erschien ein Paar hell leuchtender Laseraugen. Wer von uralten Kampf-oder-Flucht-Reflexen getäuscht wurde, könnte eine Lebensform sehen.
+
+Lauernd, dich scheinbar direkt anstarrend.
+Ihr Gesicht in Schatten gehüllt.
+
+Als diese zwei roten Punkte erstmals auftauchten, waren sie schwach, bis sie mit jeder vergehenden Minute größer wurden, bis sie für jeden der in der Nähe war die Sonne überstrahlten.
+
+Nachdem sie jahrelang antriebslos geflogen waren, traf das schlanke Paar Raumschiffe sein Schicksal, mächtige Laser trafen reflektierende Oberflächen, bis sie mit Kräften abzubremsen begannen, die kein Mensch ertragen konnte, sich gegen die unsichtbare Grenze des Asteroidengürtels stemmend.
+
+Die fernen Laser stellten ihr Feuer nicht ein, bis die Flotte die Geschwindigkeit der driftenden Bruchstücke erreicht hatte, Überreste eines zerstörten Protoplaneten. Erst dann kehrten Frieden und Stille in die Gegend zurück, und das Vakuum kehrte in seinen Ausgangszustand zurück: friedlich, still, in Schatten verdunkelt.
+
+Drinnen - entkoppelt von jeglichen Vibrationen und quietschendem Metall - schlief eine Ratte.
+
+Vaxzor, die Augen noch geschlossen, wird bald erwachen. Es wird sein erster bewusster Moment seit über fünfzig Jahren - sein erstes Erwachen als Kapitän.
+
+Draußen fing der dünne Asteroidengürtel beiläufig ein paar Photonen der fernen Sonne auf, reflektierte sie auf zufälligen Bahnen, bis einige davon das Sensorpaket der USS Hal Finney trafen.
+Bordsysteme fuhren hoch und begannen mit dem langwierigen und schmerzhaften Prozess, Vaxzors Körper auf die für die Mission nötige Zeitpräferenz neu auszurichten.
+
+Sein Torporstuhl war gegen jede elektronische Kriegsführung gehärtet, mit überwiegend mechanischen Komponenten gebaut.
+So tief im All, außerhalb des Timechain-Schutzes der inneren Systeme, war jede KI oder jedes andere vernetzte Computersystem für alle praktischen Anwendungen unbrauchbar, und daher musste jede Reanimationssequenz so manipulationssicher und unausweichlich wie möglich sein.
+
+Eine mechanische Uhr, die eine Reaktivierung nach einem vorprogrammierten Zeitfenster erlaubte. Ein Schalter, ein zweiter, ein Infrarotsensor, exakt auf das erwartete Laserspektrum abgestimmt und über Fasern direkt in den Torporstuhl geleitet. Und drittens ein Funkempfänger, der den Neustart auf der Timechain bestätigte. Nachdem alle 3 Ereignisse wie geplant eingetreten waren, bootete ein sekundärer Rechner und startete sofort die Aufwachprozedur.
+
+Eigentlich erforderte das Verfahren genaue Messungen und Untersuchungen, die verschiedene Überwachungssysteme über die Jahre gesammelt hatten, eng zu überwachen und zu verifizieren und zu bestimmen, ob es sicher war fortzufahren. Für Vaxzor jedoch, ohne dass jemand zur medizinischen Hilfe bereitstand, gab es keine Alter­native - bis jetzt.
+
+***
+
+Das Pumpen und Zischen von Vaxzors Torporstuhl war nun das einzige Geräusch innerhalb von Lichtminuten dunklen und leeren Raums.
+
+Vaxzors Re­animation nach 50 Jahren Kälteschlaf gelang, und er erwachte aus seinem jahrzehntelangen Schlummer. Seine Muskeln waren noch steif vom Torpor, aber sein Geist: in einem Augenblick erwacht.
+
+Er war sicher, dass das das Ergebnis der Medikamente war, die man in ihn gepumpt hatte. Ein klarer Geist ist das Wichtigste in jeder unvorhergesehenen Situa­tion, alles andere lässt sich mit einfachen, nicht vernetzten Rechnern und manuellen Eingaben erledigen.
+
+Sein Torporstuhl stand neben der Brücke, nicht weil diese Nähe später gebraucht würde, sondern weil beide im Zentrum des Schiffs liegen mussten, hinter vielen Schichten Panzerung, die ihm umfassenden Schutz gegen physische und kybernetische Angriffe bot.
+
+Glücklicherweise unterschied sich sein Torporanzug nicht so sehr von einem EVA-Anzug. Er hatte vertraute Komponenten, um verschiedene Flüssigkeiten zu zirkulieren, von denen jeder Körper abhängt, präzise Temperaturkontrollen und winzige Triebwerke, um sowohl im All als auch in der Schwerelosigkeit des Schiffskerns zu manövrieren.
+
+Vaxzor beugte sich vor, der Anzug verstand es und nutzte seine Triebwerke, um ihn aus dem Torporstuhl zu schieben.
+
+Sein Körper schmerzte noch, er war dankbar für die fehlende Schwerkraft hier im Kern.
+Zu seiner Linken und Rechten waren Wände mit Paneelen gesäumt, die Echtzeitdaten anzeigen sollten, alle noch schwarz, aber bald gefüllt mit dem Gespräch und dem hektischen Treiben seiner erwachten Crew. Doch jetzt war alles gedimmt, was den noch moderaten Energiesparmodus des Schiffs widerspiegelte.
+Es fühlte sich friedlich und ruhig an.
+
+Der Raum, in dem er aufgewacht war, ging in die Brücke über, das Blickfeld weitete sich, während er zu ihr hinübertrieb.
+
+Die Komplexität der Brücke schaffte es immer noch, jeden zu überwältigen, der im Luxus des inneren Systems geboren war. Die Raumschiffe, in denen Vaxzor zu trainieren begann, waren schlank und schlicht. Es gab keine Kontrollen und eine KI handelte einfach und direkt entsprechend der Absicht ihres Piloten. Diese Brücke hatte manuelle Kontrollen für alles, und bald würde dieser Raum mit hundert Ratten brummen.
+
+Das Schiff hatte keinen dezitierten Hauptcomputer. Alles war re­dundant und dezentral. In diesem Stadium und für lange Zeit würden Daten nur durch die Crew fließen, statt durch automatisierte Systeme, die sich leicht durch fehlerhafte Daten täuschen lassen. Stattdessen mussten paranoide Köpfe und Augen entscheiden.
+
+Vaxzors erste Handlung war, das Sensorarray hochzufahren und den Hauptbildschirm einzuschalten. Die Ansicht war ruhig und gelassen, aber letztlich enttäuschend. Er erinnerte sich an die alten Science-Fiction-Filme, die er in seinen Jugendjahren so sehr genossen hatte, in denen Asteroidengürtel dichte Felsansammlungen waren. Die Wirklichkeit, die sich ihm bot, unterschied sich nicht sehr von einem klaren Nachthimmel.
+Tatsächlich wäre es, wenn Vaxzor einen zufälligen Lichtpunkt wählte, um Grössenordnungen wahrscheinlicher gewesen, dass er auf einen Stern zeigte.
+
+Seine Mission war jedoch nicht die einer astronomischen Beobachtung, sondern der Kriegseinsatz. Der Asteroidengürtel war so dünn, dass vor der Kessler-Krise Missionen Raumschiffe einfach hindurchfliegen ließen, ohne Angst, etwas zu treffen. Aber das hat sich geändert: Generationen bevor Vaxzor überhaupt geboren wurde, wäre es sicher gewesen, dass etwas zurückschlägt.
+
+Vaxzor erinnerte sich an seine Ausbildung und die grauenhaften Geschichten.
+
+Man hatte ihm gesagt, *sie* benutzen Tarnung.
+Wenn du nicht Glück hast und sie zwischen dir und einer Lichtquelle passieren oder ein aktives Sensornetz hast, ist ihre geringe Infrarotstrahlung deine einzige Chance, sie zu entdecken. Der Rumpf der Halfin war mit mehreren, redundanten und überdimensionierten Infrarotdetektoren bedeckt, die alle in dieses Sensorarray auf der Brücke einspeisten.
+
+Der Rechner, der die Sensorbilder empfing, war ebenfalls absichtlich einfach, und nachdem alle unvermeidlich viele Fehlalarme eliminiert worden waren, zeigten die Scans nichts. Trotz kontinuierlicher Suche kein Zeichen von Tabbies, die die Erkennungsschwellen streiften. Das war zu erwarten, frühere Missionen trafen sie nur viel tiefer im Gürtel.
+
+Nicht strikt nach Protokoll, aber nachdem dieser angespannte Moment vorüber war, bestand seine zweite Handlung darin, das Audiosystem der Brücke einzuschalten.
+
+Beruhigende Musik begann zu spielen und wusch das vorherige Gefühl von Dunkelheit und Verzweiflung weg; Lautsprecher, ursprünglich installiert, um seine noch kommenden Befehle zu übertragen, schufen eine kleine und kurzweilige Tasche des Glücks, während er sich auf den langen Prozess vorbereitete, seine Crew in der gesamten Flotte zu wecken.
+
+Fast 50.000 Brüder und Schwestern sollten aus dem Torpor erwachen, zuerst das medizinische Pers­onal, um im Falle von Abweichungen zu helfen, als nächstes die Führungsstäbe der zweiten Ebene, und schließlich alle, Schiffsunterstützung und Bergungsteams.
+
+***
+
+In diesem Moment drangen aufdringliche Gedanken in Vaxzors Geist.
+
+"Ich könnte sie niemals wecken und wieder schlafen gehen. Sehen, was passiert."
+
+Der Gedanke kam ungefragt. Kein Plan, nur eine Gestalt. Wie viele Ratten es in dunklen Momenten fühlten und flüsterten, ging seine Verstimmung gegenüber der Menschheit sehr tief, aber seine Konditionierung und der Schwung eines Zwecks, die Arbeit zu tun, für die er erschaffen worden war, hielten immer noch stand. Doch sein inneres Auge malte ein friedliches Bild: die Halfin treibend, die Flotte für immer eingefroren, ihr Kapitän sicher sediert, keine Befehle gesendet, die je ihr Ziel erreichten. Nur um in einer fernen, vielleicht besseren Zukunft aufzuwachen. Das System würde es Korruption nennen. Er hätte es Ruhe genannt.
+
+Und selbst in den Momenten, in denen sein Wille zum Widerstand stark war, wusste er, dass es keine andere Option gab, als die Mission wie geplant zu vollenden. Er kommandierte eine ganze Flotte von Raumschiffen, alle noch an den Rumpf der Halfin gekoppelt oder in den riesigen Hangars gelagert, da ihr Design kein Antriebssystem besaß, um außerhalb kleiner Manöver irgendetwas zu tun.
+
+Seine Angst, von einem bestimmten Pfad abzuweichen, ohnehin bei Menschen sehr präsent, war bei Ratten sogar künstlich verstärkt worden, daher verweilten trotz seines Wissens darüber Gedanken an Trotz oder Re­bellion nicht lange.
+
+Seine Programmierung war erfolgreich darin, sein Überdenken wegzudrücken.
+
+Nachdem das letzte wesentliche System hochgefahren war, flackerten Lichter in den Korridoren von Segment 7 - Primärmedizin - auf, die praktischerweise den Abschnitt des Kerns umgaben, in dem Vaxzor die letzten 50 Jahre verbracht hatte.
+
+Eine kurze Vibra­tion erschütterte die Brücke, als die in den Rumpf eingebauten Elektromagnete begannen, die Rotationsgeschwindigkeit des ersten von insgesamt 21 rotierenden inneren Segmenten zu beschleunigen - jedes fast 100 Meter lang und 250 Meter im Durchmesser - geschützt hinter Metern mehrerer Schichten dicker Panzerung, die einen gemeinsamen inneren Kern umgaben. Die meisten Crew-Einrichtungen und Torporpods waren dort untergebracht. Es würde mehr als eine ganze Schicht - 6 Stunden - dauern, jeden Torus von den für Torpor-Standby idealen 0,1 g auf gesunde und komfortable 0,5 zu beschleunigen. Vaxzor sah sich die Parameter an und bestätigte sie im Sollbereich. Das Schiff war für den Betrieb freigegeben. 
+
+Es war Zeit.
+
+Vaxzor verbrachte diese Stunden mit dem Zuhören zur Musik, während er die Missionsdetails durchging und seine Gedanken sammelte, weitere Scans durchführte, eine Atmosphäre in freie Bereiche einliess und verschiedene Unterstützungssysteme hochfuhr.
+
+Er erinnerte sich daran, dass dieser Teil der Mission der angenehmste war, danach ging es nur noch bergab.
+
+***
+
+"Zeit, in Bewegung zu kommen", sagte Vaxzor zu sich selbst.
+
+Er schwebte aus der Kommandobrücke. Als sich die automatische Schiebetür öffnete, zeigte sie den großen zentralen Korridor, der die verschiedenen Brie­fing- und Unterstützungsbereiche des Kommandodecks mit dem zentralen Aufzug verband.
+
+Der Aufbau des Schiffs war einfach und effizient. Als er die erste Kreuzung passierte, warf er einen Blick auf den separaten Aufzug, der am zentralen Kern hinunter zu "The Vault" führte. Es überlief ihn jedes Mal kalt, wenn er an den Reichtum dachte, der dort gelagert war, bereit, im Gürtel entfesselt zu werden. Dieser stark gesicherte Bereich lag tief im Kern des Schiffs und beherbergte das Timechain-Kollateral, die kritische Komponente ihrer Mission. Der Aufzug war mit einer Hochsicherheits-Warnung versehen und erforderte mehrere digitale Signaturen für den Zugang. Das Schiff war eine Festung, entworfen, um das Kollateral vor allen Bedrohungen zu schützen, selbst physischen.
+
+Das war das Herz ihrer Mission: eine föderierte zweite Schicht der Timechain im Gürtel zu installieren, um die Tabbies endgültig zu besiegen, die Nutzung von KI wieder zu erlauben und vor Angriffen zu schützen.
+Nichts weniger, als der Menschheit eine Zukunft in der dritten Expansionswelle ins Sonnensystem zu sichern.
+
+Er erinnerte sich an die alten Ideen über die Besiedlung des Sonnensystems aus den Geschichtsbüchern, die er studiert hatte. Damals stellte sich niemand vor, dass der Gürtel ihr Endgegner sein würde. Doch wie so vieles hatte die Timechain und die folgende KI-Krise sie auf eine ganz andere Zeitlinie gesetzt - eine Zukunft, die nur wenige vorausgesehen hatten.
+
+Als er mit dem Aufzug hinunter nach S7 - Sektor 12 - fuhr, begann sich die Illu­sion von Schwerkraft zu zeigen und zwang seine Muskeln, langsam wieder etwas Funktion zu gewinnen. Vaxzor ging weiter, sein Weg klar in seinem Kopf.
+
+Die Befehlsstruktur war einfach: Das medizinische Pers­onal hatte erhebliche Autorität - nur eine Ebene unter dem Kapitän. Menschen, in ihrer dekadenten Besessenheit mit Well­ness, Gesundheit und Langlebigkeit, stellten diese Belange über alles, aber hier, in der unbarmherzigen Leere des Weltraums, war es eine der wenigen menschlichen Entscheidungen, die Sinn ergaben.
+
+Der vertraute Anblick der ersten Krankenstation, bezeichnet als MS 1, kam in Sicht. Die Tür war versiegelt, mit einem kleinen Panel daneben, das den Status der Station anzeigte. Vaxzor authentifizierte sich an der Tür, der Bildschirm blinkte grün, und die Tür glitt mit leisem Zischen auf.
+
+Drinnen öffnete sich eine riesige Kammer. Mehrere Ebenen, die Wände gesäumt von Torpor-Kammern, dicht gedrängt mit noch schlafenden Ratten. Vaxzor hatte diese Einrichtung bisher nie persönlich gesehen. Und er wurde daran erinnert, dass Torpor der Grund war, warum er existiert. Der Grund, warum sie alle existieren.
+
+"Warum Menschen nicht in den Kältetorpor gegen können." - Daran erinnerte er sich, es als Kind gelesen zu haben. Irgendetwas Genetisches, hatte man ihnen gesagt. Doch wie die meisten Bildungsinhalte war die Erklärung dünn, angeboten ohne Neugier oder kritisches Denken einzuladen.
+
+Trotzdem lag es an ihm, es nie tiefer zu erforscht zu haben. Er hat sich nie die Mühe gemacht, das nötige biologische Wissen zu erwerben, um die Erklärung überhaupt zu verstehen. Seine Gedanken gingen kurz zu seinen eigenen Ausbildungsergebnissen, seinem hohen Anpassungsindex, seiner nahezu perfekten Simulationskonformität und er nahm an, dass dies die Gründe waren, warum er es hierher geschafft hatte. Tief drinnen klammerte er sich immer noch an diesen Glauben: dass er sich das Kommando selbst verdient hatte, nicht nur durch sorgfältige Zucht und psychometrische Formung erworben.
+
+Dass er aufgrund seiner Verdienste ausgewählt wurde - nicht weil er perfekt gehorsam, perfekt unauffällig in all den Weisen war, die zählten.
+
+***
+
+Jerenxa stand über einem Monitor und nahm Vaxzors Anwesenheit nicht wirklich wahr. Sie war in Gedanken versunken, bis sie seine Präsenz durch die von ihm verdrängte Luft gespürt haben musste. "Captain..." - "MSTR...". Sie nickten und begrüßten einander mit ihren Titeln.
+
+"Geben Sie mir den Überblick, Medical Sargeant. Ich nehme an, alle Torpor-Kammern laufen?" - Jerenxa brach den Blickkontakt und wandte sich dem Term­inal zu, das die Statistiken anzeigte.
+
+"Wir hatten insgesamt 571 Verluste, und 6185 Crewmitglieder werden mit irgendeiner Form von Post-Torpor-Trauma zu kämpfen haben. Das ist bedauerlich, aber tatsächlich halb so viel wie prognostiziert. Diese Zahl umfasst über neunhundert, die technisch am Leben sind, aber ohne vorbereitende Behandlung nicht aufwachen können, und der Rest mit unterschiedlichen Graden neurologischer Fehlanpassung. Wir markieren sie nach Funktionspotenzial."
+
+"Wir legen einen Zeitplan fest, um sie zu behandeln. Brauchen Sie selbst medizinische Hilfe? Sie sehen etwas blass aus, und Ihre Haltung ist leicht verschoben. Wir müssten einen tieferen Scan durchführen, aber vermutlich ein leichter Fall von PTF."
+
+Vaxzor nickte. "Es fühlt sich an wie Post-Torpor-Fatigue. Ich bin noch müde. Nicht kognitiv, nur - träge. Als käme die Schwerkraft vor dem Muskel zurück, obwohl ich die Schwerkraft eingeschaltet habe. Und mein Geist fühlt sich an, als trage ich eine Sonnenbrille."
+
+Er erwähnte seine aufdringlichen Gedanken von früher nicht - "Aber lassen wir eine volle Diagnostik erstmal sein, dafür bin ich nicht hier. Es ist sowohl Protokoll als auch ein Zeichen des Respekts, die ersten Erwachenden persönlich zu begrüssen."
+
+"PTF Klasse-B. Motivationskollaps ist in diesem Stadium nichts Alarmerendes. Sie fühlen es vielleicht nicht, aber Ihr Geist ist noch nicht voll da. Sie verspüren einen starken Drang, wieder in den Torpor zu gehen?" Vaxzor fühlte sich ertappt, er konnte nicht anders, als instinktiv zu nicken. "Klassisch PTF-B. Ich kann einen Mela­tonin-Blocker verabreichen, wenn Ihre Symptome anhalten - er ist mild, aber klärt den Restnebel." Sie zog ein kleines Pflaster hervor und setzte es ihm in den Nacken.
+
+Ein Schauer lief ihm über den Rücken. Es fühlte sich kalt an, aber es war nicht körperlich. In ihrer Bewegung gab es keine Pause - keine Wärme, kein Einverständnis. Nur Effizienz. Ihre Hand fühlte sich kalt und berechnend an, wie er es von den menschlichen Aufsehern erinnerte, nicht von einer Mitratte.
+
+"Ich bin markiert. Ich bin Inventar." Vaxzors Para­noia erreichte kurz wieder einen Höhepunkt, nur damit sein Geist ihn eine halbe Sekunde später wieder ausrichtete. PTF-B. Er akzeptierte den Gedanken, wie normal es sich anfühlte, markiert und zur Funktion angepasst zu werden.
+
+"Das wird Sie innerhalb einer Stunde besser fühlen lassen. Wenn nicht - bitte ich Sie, mich sofort zu sehen."
+
+Vaxzor deutete auf den Monitor. "Ich weiß, es ist das Protokoll, zuerst die medizinische Crew zu wecken, aber wir haben keine Eile, die gesamte Crew schon zu wecken. Ich will so schnell wie möglich Augen der Sensorspezialisten auf den Infrarotscannern. Vielleicht habe ich eine Tabby übersehen, und wenn das der Fall ist, haben wir größere Probleme als einen unsicheren Torporausstieg. Die anderen Segmente können warten, lassen Sie uns hier sicher sein, bevor wir das ganze Schiff vorzeitig wecken"
+
+Jerenxa zuckte nicht einmal, als er das Wort - *tabby* - erwähnte.
+Und sie bemühte sich nicht, mit einem Patienten zu diskutieren, der an PTF leidet, und würde ihren Kapitän nicht anders behandeln.
+
+"Sie sind der Kapitän." Mehr sagte sie nicht.

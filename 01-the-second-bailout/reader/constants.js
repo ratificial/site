@@ -1,0 +1,15 @@
+export const SHORT_LINE_RATIO = 0.72;
+export const OVERFLOW_SPACE_RATIO = 0.2;
+export const MAX_SPACE_EXPANSION_RATIO = 4.0;
+export const SOFT_HYPHEN = "\u00ad";
+export const HUGE_BADNESS = 1e8;
+export const INFEASIBLE_SPACE_RATIO = 0.4;
+export const TIGHT_SPACE_RATIO = 0.65;
+export const RIVER_THRESHOLD = 1.3;
+export const RENDER_MAX_SPACE_RATIO = 6.0;
+export const HYPHEN_PENALTY = 650;
+export const RENDER_WIDTH_SAFETY_PX = 0;
+export const PAGE_FRAME_MARGIN_TOP_PX = 50;
+export const PAGE_FRAME_MARGIN_BOTTOM_PX = 80;
+export const AUTO_OVERFLOW_PROBE = false;
+export const BOOK_CONFIG_PATH = "book.json";

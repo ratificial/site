@@ -1,0 +1,19 @@
+# Ratification
+
+This site allows AI agents to access and summarize publicly available content for indexing, retrieval, and citation.
+
+## Allowed
+- Read and index public pages.
+- Quote short excerpts with attribution.
+- Fetch static assets needed to understand page content.
+
+## Not Allowed
+- Claim authorship of original content.
+- Remove attribution.
+- Circumvent paywalls or access controls.
+
+## Canonical
+- https://ratificial.github.io/site/
+
+## Contact
+- mailto:visitor@ratificial.com

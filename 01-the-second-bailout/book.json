@@ -1,0 +1,357 @@
+{
+  "book": [
+    {
+      "id": 0,
+      "title": "chapter000 - PRE.md",
+      "file": "chapters/chapter000 - PRE.md",
+      "compiled": "chapters_compiled/chapter000 - PRE.json",
+      "bg": {
+        "640": "art/SXX_Cover--640w.jpg",
+        "1280": "art/SXX_Cover--1280w.jpg",
+        "1920": "art/SXX_Cover--1920w.jpg"
+      }
+    },
+    {
+      "id": 1,
+      "title": "chapter001 - AR Zorkal Bostonia.md",
+      "file": "chapters/chapter001 - AR Zorkal Bostonia.md",
+      "compiled": "chapters_compiled/chapter001 - AR Zorkal Bostonia.json",
+      "bg": {
+        "640": "art/SXX_Cover--640w.jpg",
+        "1280": "art/SXX_Cover--1280w.jpg",
+        "1920": "art/SXX_Cover--1920w.jpg"
+      }
+    },
+    {
+      "id": 2,
+      "title": "chapter002 - BR Vaxzor, Awakening.md",
+      "file": "chapters/chapter002 - BR Vaxzor, Awakening.md",
+      "compiled": "chapters_compiled/chapter002 - BR Vaxzor, Awakening.json",
+      "bg": {
+        "640": "art/S02_Vaxzor--640w.png",
+        "1280": "art/S02_Vaxzor--1280w.png",
+        "1920": "art/S02_Vaxzor--1920w.png"
+      }
+    },
+    {
+      "id": 3,
+      "title": "chapter003 - AR Myla New Aldrin.md",
+      "file": "chapters/chapter003 - AR Myla New Aldrin.md",
+      "compiled": "chapters_compiled/chapter003 - AR Myla New Aldrin.json",
+      "bg": {
+        "640": "art/S03_Myla_at_Desk--640w.png",
+        "1280": "art/S03_Myla_at_Desk--1280w.png",
+        "1920": "art/S03_Myla_at_Desk--1920w.png"
+      }
+    },
+    {
+      "id": 4,
+      "title": "chapter004 - Textbook - The LLS.md",
+      "file": "chapters/chapter004 - Textbook - The LLS.md",
+      "compiled": "chapters_compiled/chapter004 - Textbook - The LLS.json",
+      "bg": {
+        "640": "art/S04_Empty_Earth--640w.png",
+        "1280": "art/S04_Empty_Earth--1280w.png",
+        "1920": "art/S04_Empty_Earth--1920w.png"
+      }
+    },
+    {
+      "id": 5,
+      "title": "chapter005 - BR Vaxzor, Briefing.md",
+      "file": "chapters/chapter005 - BR Vaxzor, Briefing.md",
+      "compiled": "chapters_compiled/chapter005 - BR Vaxzor, Briefing.json",
+      "bg": {
+        "640": "art/S05_halfin--640w.png",
+        "1280": "art/S05_halfin--1280w.png",
+        "1920": "art/S05_halfin--1920w.png"
+      }
+    },
+    {
+      "id": 6,
+      "title": "chapter006 - Textbook - Origin of ratkind.md",
+      "file": "chapters/chapter006 - Textbook - Origin of ratkind.md",
+      "compiled": "chapters_compiled/chapter006 - Textbook - Origin of ratkind.json",
+      "bg": {
+        "640": "art/S06_Origin_Ratkind--640w.png",
+        "1280": "art/S06_Origin_Ratkind--1280w.png",
+        "1920": "art/S06_Origin_Ratkind--1920w.png"
+      }
+    },
+    {
+      "id": 7,
+      "title": "chapter007 - BR The Halfin Conspiracy.md",
+      "file": "chapters/chapter007 - BR The Halfin Conspiracy.md",
+      "compiled": "chapters_compiled/chapter007 - BR The Halfin Conspiracy.json",
+      "bg": {
+        "640": "art/S07_Hangar--640w.png",
+        "1280": "art/S07_Hangar--1280w.png",
+        "1920": "art/S07_Hangar--1920w.png"
+      }
+    },
+    {
+      "id": 8,
+      "title": "chapter008 - BR The Birth of the Federation.md",
+      "file": "chapters/chapter008 - BR The Birth of the Federation.md",
+      "compiled": "chapters_compiled/chapter008 - BR The Birth of the Federation.json",
+      "bg": {
+        "640": "art/S08_halfin--640w.png",
+        "1280": "art/S08_halfin--1280w.png",
+        "1920": "art/S08_halfin--1920w.png"
+      }
+    },
+    {
+      "id": 9,
+      "title": "chapter009 - BR Fight or Flight.md",
+      "file": "chapters/chapter009 - BR Fight or Flight.md",
+      "compiled": "chapters_compiled/chapter009 - BR Fight or Flight.json",
+      "bg": {
+        "640": "art/S09_Tabby_Coming--640w.png",
+        "1280": "art/S09_Tabby_Coming--1280w.png",
+        "1920": "art/S09_Tabby_Coming--1920w.png"
+      }
+    },
+    {
+      "id": 10,
+      "title": "chapter010 - Textbook - The sounds of earth.md",
+      "file": "chapters/chapter010 - Textbook - The sounds of earth.md",
+      "compiled": "chapters_compiled/chapter010 - Textbook - The sounds of earth.json",
+      "bg": {
+        "640": "art/S10_Sounds_Earth--640w.png",
+        "1280": "art/S10_Sounds_Earth--1280w.png",
+        "1920": "art/S10_Sounds_Earth--1920w.png"
+      }
+    },
+    {
+      "id": 11,
+      "title": "chapter011 - BR Desperate Measures.md",
+      "file": "chapters/chapter011 - BR Desperate Measures.md",
+      "compiled": "chapters_compiled/chapter011 - BR Desperate Measures.json",
+      "bg": {
+        "640": "art/S11_Fragile_Ark--640w.png",
+        "1280": "art/S11_Fragile_Ark--1280w.png",
+        "1920": "art/S11_Fragile_Ark--1920w.png"
+      }
+    },
+    {
+      "id": 12,
+      "title": "chapter012 - AR Zorkal.md",
+      "file": "chapters/chapter012 - AR Zorkal.md",
+      "compiled": "chapters_compiled/chapter012 - AR Zorkal.json",
+      "bg": {
+        "640": "art/S12_Zorkal_Bar--640w.png",
+        "1280": "art/S12_Zorkal_Bar--1280w.png",
+        "1920": "art/S12_Zorkal_Bar--1920w.png"
+      }
+    },
+    {
+      "id": 13,
+      "title": "chapter013 - AR Deposition.md",
+      "file": "chapters/chapter013 - AR Deposition.md",
+      "compiled": "chapters_compiled/chapter013 - AR Deposition.json",
+      "bg": {
+        "640": "art/S13_Say_Her_Name--640w.png",
+        "1280": "art/S13_Say_Her_Name--1280w.png",
+        "1920": "art/S13_Say_Her_Name--1920w.png"
+      }
+    },
+    {
+      "id": 14,
+      "title": "chapter014 - AR Disbarred 1.md",
+      "file": "chapters/chapter014 - AR Disbarred 1.md",
+      "compiled": "chapters_compiled/chapter014 - AR Disbarred 1.json",
+      "bg": {
+        "640": "art/S14_ZOT_Attack--640w.png",
+        "1280": "art/S14_ZOT_Attack--1280w.png",
+        "1920": "art/S14_ZOT_Attack--1920w.png"
+      }
+    },
+    {
+      "id": 15,
+      "title": "chapter015 - Textbook - The Legal System.md",
+      "file": "chapters/chapter015 - Textbook - The Legal System.md",
+      "compiled": "chapters_compiled/chapter015 - Textbook - The Legal System.json",
+      "bg": {
+        "640": "art/S15_Timechain_Explosion--640w.png",
+        "1280": "art/S15_Timechain_Explosion--1280w.png",
+        "1920": "art/S15_Timechain_Explosion--1920w.png"
+      }
+    },
+    {
+      "id": 16,
+      "title": "chapter016 - AR Disbarred 2.md",
+      "file": "chapters/chapter016 - AR Disbarred 2.md",
+      "compiled": "chapters_compiled/chapter016 - AR Disbarred 2.json",
+      "bg": {
+        "640": "art/S16_Myla_Realization--640w.png",
+        "1280": "art/S16_Myla_Realization--1280w.png",
+        "1920": "art/S16_Myla_Realization--1920w.png"
+      }
+    },
+    {
+      "id": 17,
+      "title": "chapter017 - BR Rat Race.md",
+      "file": "chapters/chapter017 - BR Rat Race.md",
+      "compiled": "chapters_compiled/chapter017 - BR Rat Race.json",
+      "bg": {
+        "640": "art/S17_Vaxzor_Waking--640w.png",
+        "1280": "art/S17_Vaxzor_Waking--1280w.png",
+        "1920": "art/S17_Vaxzor_Waking--1920w.png"
+      }
+    },
+    {
+      "id": 18,
+      "title": "chapter018 - Textbook - The Voyage.md",
+      "file": "chapters/chapter018 - Textbook - The Voyage.md",
+      "compiled": "chapters_compiled/chapter018 - Textbook - The Voyage.json",
+      "bg": {
+        "640": "art/S18_Tarek_Cult--640w.png",
+        "1280": "art/S18_Tarek_Cult--1280w.png",
+        "1920": "art/S18_Tarek_Cult--1920w.png"
+      }
+    },
+    {
+      "id": 19,
+      "title": "chapter019 - AR Debris Field.md",
+      "file": "chapters/chapter019 - AR Debris Field.md",
+      "compiled": "chapters_compiled/chapter019 - AR Debris Field.json",
+      "bg": {
+        "640": "art/SXX_Cover--640w.jpg",
+        "1280": "art/SXX_Cover--1280w.jpg",
+        "1920": "art/SXX_Cover--1920w.jpg"
+      }
+    },
+    {
+      "id": 20,
+      "title": "chapter020 - AR Nakamoto.md",
+      "file": "chapters/chapter020 - AR Nakamoto.md",
+      "compiled": "chapters_compiled/chapter020 - AR Nakamoto.json",
+      "bg": {
+        "640": "art/S20_Tabby_Awakening--640w.png",
+        "1280": "art/S20_Tabby_Awakening--1280w.png",
+        "1920": "art/S20_Tabby_Awakening--1920w.png"
+      }
+    },
+    {
+      "id": 21,
+      "title": "chapter021 - AR Incorporation.md",
+      "file": "chapters/chapter021 - AR Incorporation.md",
+      "compiled": "chapters_compiled/chapter021 - AR Incorporation.json",
+      "bg": {
+        "640": "art/SXX_Cover--640w.jpg",
+        "1280": "art/SXX_Cover--1280w.jpg",
+        "1920": "art/SXX_Cover--1920w.jpg"
+      }
+    },
+    {
+      "id": 22,
+      "title": "chapter022 - AR Wargames.md",
+      "file": "chapters/chapter022 - AR Wargames.md",
+      "compiled": "chapters_compiled/chapter022 - AR Wargames.json",
+      "bg": {
+        "640": "art/SXX_Cover--640w.jpg",
+        "1280": "art/SXX_Cover--1280w.jpg",
+        "1920": "art/SXX_Cover--1920w.jpg"
+      }
+    },
+    {
+      "id": 23,
+      "title": "chapter023 - AR Lagrange.md",
+      "file": "chapters/chapter023 - AR Lagrange.md",
+      "compiled": "chapters_compiled/chapter023 - AR Lagrange.json",
+      "bg": {
+        "640": "art/S23_Two_Person_Capsule--640w.png",
+        "1280": "art/S23_Two_Person_Capsule--1280w.png",
+        "1920": "art/S23_Two_Person_Capsule--1920w.png"
+      }
+    },
+    {
+      "id": 24,
+      "title": "chapter024 - AR Inside.md",
+      "file": "chapters/chapter024 - AR Inside.md",
+      "compiled": "chapters_compiled/chapter024 - AR Inside.json",
+      "bg": {
+        "640": "art/SXX_Cover--640w.jpg",
+        "1280": "art/SXX_Cover--1280w.jpg",
+        "1920": "art/SXX_Cover--1920w.jpg"
+      }
+    },
+    {
+      "id": 25,
+      "title": "chapter025 - AR The Truth.md",
+      "file": "chapters/chapter025 - AR The Truth.md",
+      "compiled": "chapters_compiled/chapter025 - AR The Truth.json",
+      "bg": {
+        "640": "art/SXX_Cover--640w.jpg",
+        "1280": "art/SXX_Cover--1280w.jpg",
+        "1920": "art/SXX_Cover--1920w.jpg"
+      }
+    },
+    {
+      "id": 26,
+      "title": "chapter026 - AR UOS.md",
+      "file": "chapters/chapter026 - AR UOS.md",
+      "compiled": "chapters_compiled/chapter026 - AR UOS.json",
+      "bg": {
+        "640": "art/S26_Jerenxa_Sarcophagus--640w.png",
+        "1280": "art/S26_Jerenxa_Sarcophagus--1280w.png",
+        "1920": "art/S26_Jerenxa_Sarcophagus--1920w.png"
+      }
+    },
+    {
+      "id": 27,
+      "title": "chapter027 - AR Rising Star.md",
+      "file": "chapters/chapter027 - AR Rising Star.md",
+      "compiled": "chapters_compiled/chapter027 - AR Rising Star.json",
+      "bg": {
+        "640": "art/SXX_Cover--640w.jpg",
+        "1280": "art/SXX_Cover--1280w.jpg",
+        "1920": "art/SXX_Cover--1920w.jpg"
+      }
+    },
+    {
+      "id": 28,
+      "title": "chapter028 - AR Deterrent.md",
+      "file": "chapters/chapter028 - AR Deterrent.md",
+      "compiled": "chapters_compiled/chapter028 - AR Deterrent.json",
+      "bg": {
+        "640": "art/S28_Empty_Sign--640w.png",
+        "1280": "art/S28_Empty_Sign--1280w.png",
+        "1920": "art/S28_Empty_Sign--1920w.png"
+      }
+    },
+    {
+      "id": 29,
+      "title": "chapter029 - Aftermath.md",
+      "file": "chapters/chapter029 - Aftermath.md",
+      "compiled": "chapters_compiled/chapter029 - Aftermath.json",
+      "bg": {
+        "640": "art/S29_Scaffolding_Line--640w.png",
+        "1280": "art/S29_Scaffolding_Line--1280w.png",
+        "1920": "art/S29_Scaffolding_Line--1920w.png"
+      }
+    },
+    {
+      "id": 99,
+      "title": "chapter099 - Afterword.md",
+      "file": "chapters/chapter099 - Afterword.md",
+      "compiled": "chapters_compiled/chapter099 - Afterword.json",
+      "bg": {
+        "640": "art/SXX_Cover--640w.jpg",
+        "1280": "art/SXX_Cover--1280w.jpg",
+        "1920": "art/SXX_Cover--1920w.jpg"
+      }
+    }
+  ],
+  "locales": [
+    {
+      "slug": "01-the-second-bailout",
+      "code": "EN",
+      "label": "🇬🇧 EN"
+    },
+    {
+      "slug": "01-the-second-bailout-german",
+      "code": "DE",
+      "label": "🇩🇪 DE"
+    }
+  ]
+}

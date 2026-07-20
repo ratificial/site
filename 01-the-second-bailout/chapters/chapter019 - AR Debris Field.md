@@ -1,0 +1,82 @@
+# Act 3 - The Game
+## 192 AR. Debris Field
+
+Myla swit­ched one screen to display a map, to reveal what she had found out so far. The screen showed the scans of the LLS teles­copes, scan­ning the sky, looking for some­thing. The screen disp­layed a cloud of mill­ions of dots, mainly aste­roids, comets, known space­ships and other bodies class­ified as being frien­dlies.
+
+"What do you see, Zorkal?"
+"Uhm, nothing much, looks pretty thor­ough."
+"That's because that is a comp­osite image, mill­ions of snap­shots taken every day"
+
+Myla swit­ched the screen, and now the map showed the teles­copes and lines from them to any ident­ified object.
+
+"This is a raytracing of the scans."
+
+Myla highl­ighted the area behind the traces, all the space shad­owed in the shadow of the scans as red blobs. Then she made the screen show only the shadows, and have the shadows animate over time. A few blobs emerged, rand­omly moving through the 3-dimen­sional sphere around sol. So far nothing unusual.
+
+Then Myla over­laid the image with the traje­ctory they re­cently disco­vered.
+
+"There!" Zorkal finally saw it. A red blob not appe­aring to move rand­omly, but on a stra­ight line towards Earth.
+
+"So," - Zorkal tried to summ­arize: "If you already know where some­thing will be at all times and you want to hide, it is quite easy to manip­ulate your scans - simply by rolling the dice again on your seem­ingly random timing on your teles­copes. Not a single stati­stical anal­ysis will find it - unless you are already suspe­cting manipula­tion?"
+
+Myla un­derstood but the motives did not make sense to her: "The Loca­tion was not ment­ioned even in the docu­ments disc­losed to you. They made sure there is no record. Too much hype and hope will be gene­rated by the promise of the Hal Finney being intact. They right­fully fear panic and econ­omic coll­apse - and post­pone the discl­osure as long as they can."
+
+Zorkal had another idea: "Or they simply want a head start on some­thing, maybe destroy it?"
+
+Myla pulled up the trajec­tories of any ships bound for the loca­tion. "If the goal is destr­oying it, they won't have to. Every tabby in the outer system got alerted as soon as the laser lit up. That's the comets trail. But I see five ships using a very slow slin­gshot appr­oach - years before they'll reach it, but unless you know the loca­tion it won't draw any atten­tion. What do you think is their goal?"
+
+Zorkal glanced at the cargo mani­fest of these five ships. He knew it well. "Those look like boar­ding parties. Offici­ally private secu­rity bound for New Aldrin, but the traje­ctory doesn't fit. And if you're going to NA, you don't need torpor, that's the give­away for me. They're after the colla­teral"
+
+"But the colla­teral was already cashed in, the UOS cont­rols it. Why would a copy of the key pose a risk?"
+
+Zorkal paused. Then leaned in slig­htly...
+
+"Because it's not just a key to a vault, Myla. It's a key to a rooted stru­cture. The funds aren't sitting in a single address - they're embe­dded in a multi-branch script. What you unlock depends on how you unlock it."
+
+Myla frowned.
+
+"But the UOS has been spen­ding from it for 200 years. We're clearly trac­king the cycles."
+
+"Exactly. Quiet four-year cycles. Like cloc­kwork. That's the part that raised eyeb­rows even back when I was in the loop. Eerily similar to the timechain's early day when rewards were still a thing. But the offi­cial posi­tion is that this is simply the busi­ness cycle and timechain drips are distr­ibuted when our economy needs it. I always thought that's a load of crap. Many have specu­lated the script is ladd­ered, time-un­locked over cent­uries. Maybe mill­ennia."
+
+"So you're saying... the spen­ding condi­tions are time-gated?"
+
+"Not just that. Each branch of the script may contain unique logic. Diff­erent re­cipients, diff­erent trig­gers. And any bran­ches you don't tap are hidden. The UOS only reveals what they use. If someone else - say, with the same key - acti­vates a diff­erent branch, they could spend in a way that bypa­sses UOS control enti­rely. Or worse..."
+
+Myla was silent for a long moment. Then quietly: "So they don't know the full script either?"
+
+"They prob­ably do, but they're only forced to reveal it bit by bit as they're burning through the funds. They're foll­owing the one path they've found, decr­ypted using the Voyager's golden record. And prote­cting the illu­sion that they control it fully. But it's just that - an illu­sion. If the second ship has the iden­tical key, it will chal­lenge the UOS on equal terms, and expose their abil­ities..."
+
+***
+
+He trailed off, letting the implica­tion settle. And they both knew what had to come next - reach it first.
+
+"And this is where you come in" Myla said. "I am an analyst at best, I can shuffle data and build scen­arios, but act on it? I can hardly manage to book a flight out of here, let alone board a ship that should not exist"
+
+"Board it? But how? We're clearly outnu­mbered."
+"They're slow moving and if the ship changes course they'll be stra­nded. We'd have to get there faster - or in higher numbers, but it's not easy. A shuttle needs a good reason to fly outside the LLSA prot­ected zone. The umbr­ella of deter­rence they've spawned since the inci­dent goes both ways.
+
+And we don't want to alert anyone - the LLSA boar­ding party is low-effort. Exactly what I'd expect from a slow-moving burea­ucracy. But this will give us a window."
+
+"So all we need is stealth ship?" Zorkal seemed un­impressed.
+"There is no stealth in space. Every­thing has a sign­ature," Myla tried to shut down Zorkal. 
+
+"But the tabbies had stealth, did they?" Zorkal re­mained igno­rant. But was he getting at some­thing? Myla was getting annoyed, but out of inst­inct decided to roll with his line of thin­king. 
+
+"We need a tabby's hull at least. But that mate­rial is some­thing noone dared to re­plicate. The visual sensors will ignore it, and if we put a timechain node inside it, we would pass as a normal ship."
+
+"Uhm won't the LLS see the incons­istency?"
+
+"That's the kind of detail only nerds or senior LLS ops even notice - let alone care about. The visual sensor system and the timechain are intention­ally air-gapped. They are distr­ibuted and not conn­ected by design. Only once they have written their re­spective data to the timechains' memory, will algor­ithms see any discr­epancy, but those are, again: by design, slow."
+
+Myla cont­inued to explain in more tech­nical jargon how the system worked, and Zorkal tried to follow, but at the end, he could not keep up.
+
+"Ok, I get it" - he lied - "We defe­ated the tabbies, so nothing to collect."
+
+"That's not how space battles work. Yes, our ance­stors managed to disp­erse the threat, and we dest­royed over 99% of them. But many - we're still trac­king thou­sands - were able to escape at more or less random trajec­tories into all kinds of direc­tions into the system. They're still a threat, but a manage­able one.
+
+We've secured our bubble of space. But anyt­hing that made it beyond that zone, especi­ally off the stan­dard ecli­ptic - yeah, that's still there. The problem is: we're keeping them out... and that means we can't reach them, which leads us to the orig­inal problem of getting out"
+
+Zorkal medi­tated on it for a few minutes, the way he used to do while working on the docks, watc­hing ships load and unload while numbers danced in his mind. And slowly, a plan began to form. One even greater - and far riskier - than before."
+
+He finally washed down the last of his drink. "There is one other option though..."

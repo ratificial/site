@@ -1,0 +1,75 @@
+## BR. Desp­erate Meas­ures
+
+The message was contin­uously re­peating across the entire fleet, while it barely held back what threa­tened to be only a tiny portion of the Tabbies as more and more arrived from the outer reaches of the Belt.
+
+"The fleet is ordered to retreat. All pers­onnel are to abandon their posi­tions and report to their desig­nated capital ship. The Federa­tion will be aban­doned, their re­actors will self-dest­ruct in 30. Ever­yone stat­ioned on a corv­ette or smaller is free to stand their ground as long as poss­ible, but at T-30 ever­yone not on-board or docked to either the USS Hal Finney or USS Nakamoto will be on their own"
+
+Vaxzor turned to his bridge offi­cers:
+
+"I have a plan to escape this madness. But I need your help. You might think I could just order you to imple­ment it... and I would. But in this case, I ask for your coopera­tion. You see...
+
+I need your LAT"
+
+A murmur went through the bridge. Vaxzor knew the un­spoken truth, that even before the mission, many Rats managed to accum­ulate LAT, against the law, against their better judge­ment. But in this moment, it was their life­line.
+
+"My AI just fini­shed draf­ting the new mission profile, I have sent it to the entire fleet."
+
+"We are leaving the solar system, there is nothing for us here. I know many of you, myself incl­uded have fami­lies and loved ones back home, and not only will we have to abandon them, they'll sure face the conseq­uences of our actions as the anger of huma­nity will descend upon them"
+
+Vaxzor put up the sche­matic of the mission profile.
+
+"As you are well aware by now, our orig­inal mission never planned for any ships to return to sol. Our job was to secure the belt, and build up the infrast­ructure here to turn it into a fully funct­ional hub. Our ships don't have the capab­ility to move by thems­elves"
+
+"However, we have mirrors in store which origin­ally were meant to decel­erate inco­ming ships. The crew is already working on re­trofitting them to our two capital ships."
+
+The monitor swit­ched to an outside camera showing rats in space suits teth­ering a massive highly re­flective sheet to moun­ting points strategic­ally placed on the hull of the Hal Finney. On the USS Nakamoto, Jerenxa had ordered her crew to do the same.
+
+Vaxzor cont­inued expla­ining the plan:
+
+"However, for these sails to be of any use, we need to purc­hase laser energy from the DMN, and by my calcul­ations there is a minimum amount we need to even get enough delta-v to escape the Tabbies, let alone make it out at a re­asonable speed.
+
+The LAT from the vault has been moved and locked to the failing space stat­ions, it's gone. The more LAT ever­yone can spare, the better, it will only shorten the trip to our final destina­tion. And if my theory is correct, after a very long journey we'll be re­warded with riches big enough to return to Earth as equal part­ners to huma­nity..."
+
+Vaxzor put the LAT address on the main screen. The number was low. Very slowly, nanos poured in, but the pace was showing clear weak­ness.
+
+"You've all heard the stories about the Voyager probes. I know most believe them to be a myth. Both stopped re­sponding cent­uries before even the first rat was born on New Aldrin. But I believe the tales to be accu­rate, as the mystery around them was well re­corded in the early timechain. Cent­uries ago, someone sent massive sums of LAT to them, enough to secure a future for anyone who finds it. While our comb­ined LAT might not even buy enough delta-v to clear the Belt and exit the solar system, it cert­ainly isn't enough to secure our place back on Earth. This is our only move."
+
+Wild chatter was going through the room - many beli­eved Vaxzor plan to be suicide, him gras­ping at straws as a desp­erate attempt, a very slim chance this plan would succeed - and they were right.
+
+Vaxzor raised a hand, sile­ncing the room.
+
+"The Tabbies are already killing us. We're aband­oning the smaller ships and loading ever­yone onto the two capital ships. The re­maining ships will be rigged to over­load their re­actors and blow as we escape. We'll use the explo­sion to take out as many Tabbies as we can."
+
+"And after that?" one officer asked quietly.
+
+"After that," Vaxzor said, "we make for the Voya­gers. If the records are true, we'll find more LAT than we could ever dream of. If not..." He trailed off, his grim expres­sion filling in the rest of the sent­ence. "We make our final stand here."
+
+Against the re­asonable doubt and compl­acency of the crew, Jerenxa joined the call. The room fell silent as her face appe­ared - calm, framed by the battle-scarred command deck and crew of the Nakamoto. Ever­yone fell silent. "I have autho­rized the maximum contribu­tion from my command, and contr­ibuted my entire pers­onal balance. Fleet Command is all-in. This is the only viable mane­uver - all we ask is that you do the same."
+
+
+Hours later, the fleet made its final pre­parations. Mining drones and support ships were stri­pped of crew, ever­yone herded onto the two re­maining capital ships, the Hal Finney and the Nakamoto. The re­actors of the aban­doned ships were set to over­load.
+
+Vaxzor stood at the helm, watc­hing the screen as the final evacua­tion was comp­leted. His eyes narr­owed as the coun­tdown to detona­tion ticked down. He keyed into the inte­rcom one last time.
+
+"Hold steady," he said. "We'll be free of this soon."
+
+The re­actors of the aban­doned stat­ions began to glow, their cores overl­oading. Then, in a flash, every­thing expl­oded, ligh­ting up the Belt in a brief but blin­ding display of destruc­tion. Mill­ions of Tabbies were vapo­rized in the blast, their mecha­nical bodies shre­dded by the force.
+
+At the same time, pre­cisely calcu­lated, and ordered as deli­vered, consi­dering orbital drift and light lag, the sails teth­ered to the capital ships lit up in a dim red, burning the LAT of the crew, and conve­rting it into photons.
+At first, nothing happ­ened as the massive inertia fought the phot­onic energy. The tethers stre­tched, until the re­lative velo­city of that fleet of two was visibly incre­asing from zero.
+As the power prov­ided from the DMN incr­eased, so did the accelera­tion.
+
+A few stray Tabbies still managed to escape the nuclear fire­balls of the sacri­ficed fleet, in a last attempt to compr­omise the capi­tals, but their laser turrets vapo­rized them without any issues.
+
+The Belt wasn't free of them yet. The human's plan to esta­blish a foot­hold - to exter­minate the Tabbies compl­etely - had failed. The federa­tion had fallen, but the Tabbies' grip on the Belt had been disr­upted. 
+
+Vaxzor made it clear, this wasn't their fight anymore: "The humans will have to fight their fight thems­elves if they want the belt. We made their job consid­erably easier - for a steep cost - but the time for negoti­ations is over."
+
+On the screen, the proj­ected traje­ctory slowly adju­sted with their re­spective course: The Hal Finney would use a gravity assist from Saturn, while for the Nakamoto headed for Voyager 1, Jupiter, and finally Neptune were optimal to reach it.
+
+After re­covering from the tense action, the crew still needed to repair the many broken systems, before decades of slumber in torpor would give them a much needed rest.
+
+The fleet had escaped, but their journey was far from over. And while the tension from the battle quickly dissi­pated, the anxiety about the conseq­uences would follow them into the void. They feared for the humans' re­action, a fate that would fall on their fami­lies back home.
+
+Vaxzor was almost alone on the bridge now, ever­yone in torpor. Contem­plating the journey ahead, his thou­ghts went to the plan, and the low odds it might succeed. Did he doom ever­yone? What are the odds they'll be acce­pted back home, even with massive amounts of LAT?
+Out of boredom, as the torpor fluid entered his system, he checked the logs of all the contri­butions. Jerenxa really saved their butts there, he thought. Then he noticed the times­tamps. Her contribu­tion pre-dated his speech. Before he could form a cohe­rent thought of what that meant, the drugs took him out...

@@ -1,0 +1,120 @@
+## 194 AR. Erde, Boston
+
+Eine Gruppe von Ratten, Gewehre tragend, stieg aus einem Drohnenfahrzeug, das neben der Absturzstelle gelandet war, und half Vaxzor, durch die verbogene Hangartür des gestrandeten Raumschiffs herauszuklettern. Im Hintergrund luden Hunderte weitere Fahrzeuge medizinisches Pers­onal und Ausrüstung aus, um sich um die Crew zu kümmern - die meisten noch im Torpor.
+
+Die Oberflächenratten nahmen sie westwärts mit, flogen über Boston zur Hauptstadt der "Prediger der Schwerkraft". Tarek, sichtbar gealtert, in zeremonieller Kleidung, wartete auf sie oben an einer Treppe, die zu einer massiven brutalen Betonstruktur führte.
+
+Vaxzor blickte auf; so weit draußen schnitt das Tether des Rings, das den Boston-Anker mit dem All verband, eine gerade Linie durch den Himmel, sein schwarzes, nicht reflektierendes Mate­rial spaltete den Himmel scharf in zwei Hälften.
+
+Tarek salutierte seinem ehemaligen Captain. "Willkommen auf der Erde, Sir. Mir wurde gesagt, wir hätten Sie verloren, Sir!"
+
+***
+
+"Das ist dein erstes Mal unten am Tether..." fragte Elnara, während Zorkal nicht aufhören konnte, aus dem Fenster zu schauen, als sie durch Wolkenschicht um Wolkenschicht hinabstiegen, die Oberfläche mit jeder Minute näher rückte und immer mehr Details sichtbar wurden.
+
+"Also auch deins, nehme ich an?" Elnara schüttelte den Kopf. "Ich war einmal unten, diplomatische Mission 187. Kaum wieder hochgekommen, du kennst die Geschichte..."
+
+Zorkal nickte nur, seine Gedanken noch bei den jüngsten Ereignissen. Viel war passiert seit ihren angespannten Momenten in den AVA-Büros. Nachdem ihre Verbindung zu verschiedensten Verbrechen in jedem denkbaren Rechtssystem von Zorkal an die gesamte UOS übermittelt worden war, war Jerenxa verhaftet worden, und das Kollateral vieler Firmen, einschließlich AVA, wurde so umstrukturiert, dass Zorkals Platz am Tisch gesichert war.
+
+"Ich bin ein bisschen enttäuscht", sagte Zorkal. "Ich hatte fast gehofft, dass sich die Affäre langsamer lösen würde, ich hätte nicht erwartet, dass Varok den Köder schluckt."
+
+"Du hast ihn gut charakterisiert, als du Druck gemacht hast, oder war das nur Show? Ja, er ist stark in Prinzip und Status, wenn es um unsere Klienten geht. Aber er selbst? Er hat sich nie um seinen Titel gekümmert - er wollte einfach ein bequemes Leben führen, während er seiner Leidenschaft für die Feinheiten des Rechts nachging."
+
+"Alles, was ich wusste, war, er verließ kaum das Büro, er schlief dort und war ein Geist ... ich nahm an, das sei Obses­sion mit Macht?" - "Nein, er mochte einfach Fälle und nichts anderes. Seine Loyalität gilt dem, der ihm diesen Raum gibt, aber ich glaube, Politik hat ihn nie interessiert. Ich bin froh, dass wir ihn behalten haben, er könnte ein Asset sein. Wenn ihr zwei euch unter anderen Umständen getroffen hättet, wärt ihr wahrscheinlich Freunde..."
+
+"Lass uns nicht so weit gehen, Elnara, was mit Myla passiert ist...," Zorkal schluckte, "ich werde ihm wahrscheinlich nie verzeihen können."
+
+Sie sprachen den Rest der Reise nicht mehr.
+
+***
+
+Nachdem sie vom Boston Anchor zu den Predigern eskortiert worden waren, wurde Zorkal im Tempel wieder mit Vaxzor vereint, der alle vorstellte:
+
+"Das ist Tarek, ich kannte ihn als einen der vielen Helden der Schlacht des Gürtels, aber ihr kennt ihn bereits als jemand anderen..."
+
+Nach einem opulenten Mahl besprachen sie die Entdeckung von Jerenxas Manipula­tion, die wahre Ursache des Untergangs der Menschheit und wie das die Beziehungen zwischen All und Erde künftig beeinflussen wird.
+
+"Das wird schwer zu verkaufen sein an mein Volk. Man kann einen Glauben nicht über Nacht beenden. Wir haben zu viel geopfert, zu viel Schmerz durch den Versuch, unseren Einsatz von Technologie einzuschränken, zu viele Leben verloren aus Angst vor einer Gottheit, von der du mir sagst, sie habe nie -" er überlegte sorgfältig, wie er es formulieren sollte: "- irgendeine Agency gezeigt. Wir müssen darüber nachdenken. Aber die Wahrheit ist raus, wir können nur kontrollieren, wie wir sie drehen. Wollen wir riskieren, alle zu entfremden, oder sogar aus Versehen unter denen mit tiefem Groll Jerenxa zur Göttin zu erheben, noch mehr als sie es für viele in der UOS war? Sicher, Wahrheit hat noch niemanden befreit - sie begräbt einen nur unter dem Gewicht von immer mehr, mehr Lügen nötig, um nachts schlafen zu können."
+
+"Aber zu deiner Bitte. Ja, ich denke, diesen Fakten ins Auge zu sehen - du hast buchstäblich eine Wahrheitsbombe aus dem Orbit abgeworfen - wäre in unserem gemeinsamen Interesse, die Emba­rgos zu heben und zusammenzuarbeiten. Als wir Bereiche durchsuchten, die nicht von automatisierter Wartung abgedeckt sind, fanden wir Schätze. Einige Menschen lagerten LAT privat, obwohl das damals selten war. Das meiste ist noch auszugraben. Das sollte uns zusätzlichen Spielraum verschaffen.
+
+Und das ist nicht alles. Als wir es wagten, tiefer zu graben als der Oberboden, den die Automationen recyceln, fanden wir spärliche Ruinen, einige digitale Archive und schließlich zusätzliche Geschichten in den Pools, nie in die Timechain eingeschrieben.
+
+"Irgendetwas Relevantes?" Zorkals Interesse stieg.
+
+"Meist persönliche Geschichten. Leute kommentieren den Niedergang oder ertränken ihn im Tanz." - "Nicht unähnlich dem, was wir in Lagrange sehen", erkannte Zorkal zynisch.
+
+"Aber bei den harten Fakten, nein. Alles, was wir wussten, war, dass immer größere Teile der Menschheit in den Torpor gingen. Jetzt wissen wir, dass Jerenxa darin eine Rolle spielte. Aber zu welchem Zweck? Wohin gingen sie? Wir fanden einige Torporkammern, aber nur ein paar Millionen insgesamt - alle unbesetzt, und kein einziger Mensch darin gefunden - nicht einmal verstorben. Es ist, als hätten sie das System ganz verlassen oder wären zu Staub geworden. Das könnte einige Restmeldungen damals erklären, die von Lichtblitzen überall am Himmel erzählen, bevor der Ring in Dunkelheit gehüllt wurde, Jahrzehnte bevor Ratkind zurückkehrte."
+
+Vaxzor antwortete, um Kontext zu geben. "Aber wie alle Texte auf der Timechain sind sie nur so viel wert wie die Nanos, die jemand bereit war, für ihre Einschreibung zu zahlen. Sie können so weit von der Realität entfernt sein, wie der Käufer sich selbst und andere zu täuschen wählte."
+
+Tarek ergänzte: "So wie unser Kern-Glaube, dass eine Gottheit die Menschen dafür bestraft hat, zu weit zu gehen, könnte es eine Geschichte sein, um eine größere, komplexere, weniger verdauliche und unbequemere Wahrheit zu verbergen, die wir noch aufzudecken haben oder die uns für immer verfolgen wird. Aber für viele meiner Mit-Predigern, ..."
+
+Elnara unterbrach. "Zu unserem Vorschlag ..." sie wandte sich an Tarek, "wir wollten heute besprechen - wir müssen die Erde für alle öffnen, besonders für diejenigen mit Low-G-Syndrom, während wir sicherstellen, dass das Second Bailout ausgerollt wird, wir die Mehrheit der DMN-Knoten kontrollieren und die Schuldenspirale in Lagrange gestoppt wird."
+
+Zorkal erläuterte. "Das Ziel ist, das zu tun, was Jerenxa in fast 200 Jahren vernachlässigt hat: die Legacy-Human-Nodes langsam, aber friedlich in Zahlen zu überwältigen, um eine Zukunft nicht nur für Lagrange, sondern für die Gesamtheit von Ratkind zu sichern."
+
+Er blickte Tarek an, der zu verstehen schien.
+
+"Das wird für viele meines Volkes schwer zu verkaufen sein. Unsere Kernbasis ist immer noch Xenophobie und strenge religiöse Doktrin. Aber das war alles, was wir damals hatten, um sicherzustellen, dass Jerenxas Einfluss auf den Himmel begrenzt bleibt. Aber es ist das Richtige, und am Ende werden wir trotzdem einen Handelsüberschuss haben. Wenn wir unsere Ressourcen bündeln und zusammenarbeiten, erreichen wir Großes. Aber offen für alle? Das kann ich nicht verkaufen." Er sah Zorkal direkt in die Augen. "Leute mit krimineller Vergangenheit zum Beispiel..."
+
+Zorkal lächelte über die Ironie. Er kontrollierte nun das Second Bailout. Der reichste Mensch in der Geschichte von Sol - und doch ein Krimineller. Verantwortlich für Tod und Zerstörung. Die Leute werden ihm immer noch nicht vertrauen, oder schlimmer - ihm gerade deshalb vertrauen.
+
+"Du musst nicht viele nehmen. Vor allem Schwerkranke im Torpor, die bereits leiden. Die Erde kann sie heilen und ihnen einen Zweck geben. Wir finden eine Rolle für alle anderen im Orbit. Während die UOS der Vergangenheit zu viel Kollateral nutzte, um in Dekadenz zu schwelgen und ihr Fundament ängstlich zu kannibalisieren, werden wir unseren Einfluss über die verbleibenden menschlichen Knoten erhöhen, und in ein paar ..."
+
+Er rief die Projektionen auf seinem Tablet auf. Der Zeithorizont war unheimlich kurz. Schwer zu glauben, dass Ratkind 2 Jahrzehnte verschwendet hat.
+
+"Nach 4 Jahren, 6 Monaten, um genau zu sein - werden wir sie einholen. Wir können Lagrange lange davor stützen, vielleicht eine weitere bauen. Es ist ein friedlicher Übergang, eine des langsamen Dominanzaufbaus, ein Weg nach vorn, den ich zumindest noch mehr genießen werde."
+
+"Es gibt noch ein Problem", brachte Vaxzor auf, als alle es so lange wie möglich vermeiden wollten. "Jerenxa..."
+
+"Wir kennen immer noch nicht ihr volles Motiv und die Tiefe ihrer Verstrickung. Schon damals spielte sie ernstes Schach um jeden, auch mich. Eine Klage könnte einigen von uns eine emotionale Erlösung geben, aber vielleicht auch eine Wahrheit enthüllen, auf die viele nicht bereit sind..."
+
+Zorkal erklärte: "So sehr ich den Bedarf nach einem glatten Ende verstehe, wir haben einen Deal ausgehandelt. Jerenxa hielt erhebliches Kollateral, und das war die einzige Option, eine vereinte UOS zu haben, unbeschwert von ihrer Vergangenheit."
+
+Alle Augen waren auf ihn gerichtet. Enttäuscht. Vaxzor kommentierte nicht. Er hatte schon zu viel unter Schweigen begraben, was ist schon ein weiterer Moment.
+
+Tarek durchschnitt die Unruhe. "Ein Deal?"
+
+"Als Narrativ war das Second Bailout eine Erlösung. Viele glaubten, es bedeutete neues Geld, das hereinschwappt - Kapital, um den Status quo herauszufordern, eine Chance, die Fehlallokation von Macht zu beenden.
+
+Aber es gibt kein neues Geld. Die Goldenen Schallplatten sind identisch. Sie schalten nur das Ausgabeskript aus längst vergangenen Tagen frei. Wer die Schlüssel hält, kann es nach Zeitplan öffnen, und wer zuerst handelt, entscheidet das Machtgleichgewicht für die nächsten vier Jahre.
+
+Vaxzors Crew hat uns so viel verschafft - einen Sitz am Tisch."
+
+Zorkal pausierte, lange genug, dass jeder Gänsehaut bekam.
+
+"Aber während der Verhandlungen wurde mir klar: Für Jerenxa ging es nie darum, dieses Rennen zu gewinnen. Es war ein - möglicherweise schon länger geplanter Ausstieg - uns in Exit-Liquidität zu verwandeln. Sie hat das Spiel nicht verloren. Sie wollte aufhören zu spielen."
+
+Elnara öffnete die LLS-Aufzeichnungen auf ihrem Tablet: "Wie ersichtlich. Kurz nach dem Vorfall und der Landung der Halfin auf der Erde buchte ein Raumschiff LLS- und DMN-Beschleunigung aus dem Sol-System mit interstellarer Fluchtgeschwindigkeit."
+
+Sie drehte das Display.
+
+"Die Spezifikation zeigte ein Raumfahrzeug, eine Zwei-Personen-Torporkapsel in einem sehr kleinen Rahmen und einen Bussard-Ramjet-Antrieb, der nach dem Schub auf über 0,1c kontinuierlich durch das interstellare Medium beschleunigen könnte.
+
+Tarek fasste zusammen: "Exil?"
+
+"Ja, das war die einzige Forderung von Jerenxas Rechtsteam, im Austausch gegen die gesamte LAT-Struktur der UOS einschließlich der LLSA.Zeitgesperrt, bis das Fahrzeug seine Zielgeschwindigkeit erreicht hat, was in ein paar Jahren sein wird. Und die Zielwahl."
+
+Elnara fuhr fort: "Was ihr besonders interessant finden werdet, das Ziel liegt in einem 'Deep Field'"
+"Was bedeutet das?" Zorkal, bis jetzt igno­rant gegenüber diesem Detail.
+
+"Eine sehr dünn besetzte Region des Weltraums, sehr, sehr weit entfernt, sogar im intergalaktischen Maßstab. Wenn sie flieht, geht sie nicht in ein anderes Sonnensystem oder gar eine andere Galaxie. Sie reist ans Ende der Zeit. Sie wird selbst Teil der Stille, die sie einst ausgenutzt hat."
+
+Jerenxas Exil war die letzte Klausel in einem größeren Vertrag, maskiert als Strafe, aber ausgeführt als Privileg. Es war die Dynamik, die durch die Enthüllungen der Teams erzeugt wurde - abgesichert durch konsensverankerten Beweis - die es erlaubte, ihre Abreise für die Öffentlichkeit als Buße zu framen. In Wirklichkeit war es ihr Aufstieg zur Transzendenz. Das letzte Puzzleteil in einem jahrhundertealten - möglicherweise noch älterem - Design.
+
+Wie Jerenxa in ihrem letzten deklassifizierten Auftritt nach der Re­volution von 194 AR sagte:
+
+"Ratkind hat nicht einfach den großen Kollaps überlebt - wir haben euch alle als seine Antwort umgegossen. Alles, was ich tat, war euch einen Mythos und eine Funktion zu geben."
+
+***
+
+Die Fahrt zurück den Tether hinauf war lang und langweilig, aber nicht so langweilig wie die Umstrukturierung, die bevorstand. Sie hatten gewonnen, aber zu einem Preis. Zorkal schenkte sich ein Glas Hochprozentiges ein, während er die Wolken still vorbeiziehen sah. Der zweiten Hälfte der Verhandlungen hatte er kaum Aufmerksamkeit geschenkt. Zu viel war in den letzten Tagen passiert, und es gab nicht genug Zeit - oder Energie - um all das zu verarbeiten.
+
+Doch jetzt, als sein Körper Zeit hatte, sich zu entspannen, verband sein Geist die Punkte. Er erinnerte sich an ein Detail aus dem Deep-Field-Report, und als er es verstand, fiel das Glas aus seiner Hand. 
+
+Es zerschellte, als es den Metallboden traf, aber er hörte das Geräusch des Brechens nicht, spürte die Glassplitter nicht, die sich in seine Beine schnitten. 
+
+Alles, was er spürte, war die Schwerkraft seiner Erkenntnis, als sein Geist der unvermeidlichen Schlussfolgerung gegenüberstand. Und während er die Fragmente des entstehenden Musters zusammensetzte, musste er nicht einmal zur Bestätigung greifen. Es fühlte sich re­dundant an, überhaupt Mylas Standort anzufragen, als sich der entscheidende Satz aus dem Report für immer in seine Seele bohrte:
+
+    Eine Zwei-Personen-Torporkapsel.

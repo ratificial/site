@@ -1,0 +1,236 @@
+## BR. Deep Space, USS Hal Finney
+
+A bright light entered Vaxzor's halfway closed eyes as he awak­ened from torpor yet again - and this time, it felt much worse. His mind was heavy and his body had diffi­culty to adjust to the proc­edure. As he, half awake in a state of agony, checked the time­stamp of the mecha­nical clock inside his torpor chamber, and it was clear why. Unlike the first time, when he and his crew were only asleep for decades, the number was wrong. He felt his stomach drop. This can't be right. They consid­erably over­slept, their mission failed, and he wasn't the first to wake up.
+
+He had progr­ammed the system to wake him three months before their arrival to meet with the Voyager 2 space­craft, enough to prepare their decelera­tion, but some­thing went very very wrong.
+
+The medical pers­onnel chec­king on his vitals brought him up to speed. "The signal meant to wake you up was never re­ceived. As you can see, our clocks seem to be off too - We did not inves­tigate why yet. We decided to wake you first."
+
+"What happ­ened? Why are you awake then?" Vaxzor had trouble spea­king.
+"During the battle of the Belt, a few torpor pods were damaged - we did not notice it, and over the years some slowly lost fluid. Yest­erday, the first crewmember woke up as her pod finally shut down. She trig­gered a medical emer­gency from within her pod, which caused me and a skel­eton team to wake up.
+
+"Is she ok?" - "Un­fortunately no, the fail­ures caused her months of severe malnutri­tion and a lot of muscle mass has been lost. We've tried to put her back into torpor, but it was too late. She's gone."
+
+"Even out here, the Tabbies still take our best." Vaxzor re­marked sadly, as the crew lifted him out of the chair.
+
+And after going through the routine opera­tions and waking more esse­ntial crew, and making sure the ship was holding toge­ther, Vaxzor went back to his ready room.
+He dire­cted the ships' ante­nnas towards Sol, and Vaxzor sighed with relief as the timechain carrier signal was re­ceived. "At least the chain still works," he said to himself even more conf­used, as its failure would have expl­ained what went wrong with the torpor.
+
+The down­load was running, but pain­fully slow - less than 1% per day. The dist­ance, the band­width const­raints, and subtle inconsi­stencies slowed it to a crawl. They re­ceived no other signals from the inner system, only the chain was strong enough that far out.
+
+But to their surp­rise, the newest data - histo­rical one still pending - was blank. 
+
+There was little to read. Just block heights and raw state hashes. No real data. Nothing that told them what had happ­ened since they'd left. It was almost like the system had been aban­doned and ever­yone was dead.
+
+As the full crew woke up and disco­vered their situa­tion, shipwide panic broke out, and Vaxzor felt the need to address the crew. This time he did not do it on the bridge, but went outw­ards towards a hangar bay, to meet a conc­erned crowd of crewmembers, while a live feed was made avail­able to anyone else:
+
+Vaxzor stood on the grated plat­form above the hangar floor, a few crew gath­ered around him in clus­ters - silent, sunken-eyed, still shaking off decades of sleep.
+He took a breath and spoke:
+
+"You've all heard the rumors, and I won't waste your time pre­tending they're wrong."
+
+He let the words sit. Eyes locked on him. No inter­ruptions, no chatter. Good, but did his auth­ority improve, or was this simply a tired, worn out crew?
+
+"We over­shot. Our calcul­ations were solid, our systems were checked and re-checked, and yet... we over­slept. The torpor exit never trig­gered."
+
+The crew's faces didn't show panic. But the tension was there - compr­essed and ready to deto­nate.
+
+"We've begun syncing the chain. But it's slow. Less than one percent per day. Until it fini­shes, we are flying blind. Nothing from the inner system. No word from the Nakamoto and ther­efore confirma­tion that our mission still matters. But we are not all dead. This ship is still holding toge­ther. We have power. We have minds. And we have options."
+
+"Let me be clear. We only have one sail left. That gives us exactly one course change. One. And we have two targets: we either try to inter­cept Voyager, or we aim for home. But we cannot do both. Not with what we have. If we go for Voyager, we'll be stra­nded."
+
+Some murmurs. Not loud. Not aggre­ssive. Just fear taking voice.
+
+"Now, I know what you're thin­king. Why risk anyt­hing? Why chase a probe when we might already be too late? Why push further into the void when we could turn around? It was two probes for a reason. If the Nakamoto made it, we can simply go home."
+
+He lowered his voice slig­htly.
+
+"So here's where we stand. We prepare. We cont­inue laser sail deploy­ment prot­ocols, quietly and effic­iently. In the mean­time, we wait - not long - for more data. A few days. Maybe a week. Until we can see a clearer picture."
+
+He raised his voice again, firm.
+
+"Nobody breaks rank. Nobody acts without command. And if anyone has a better idea, I want it on my desk within twenty-four hours."
+
+He looked at them, all of them, and soft­ened his tone just enough.
+
+"We're not just surv­ivors. We're the last voice of some­thing much older. And until we know what happ­ened out there... we hold the line."
+
+He stepped back. The silence held. Then a few quiet nods.
+
+***
+
+Two weeks later, still no word on huma­nity. Still no confirma­tion about the Nakamoto.
+Zoltar was the first to say it aloud in the mess hall:
+
+"We're drif­ting further from the Voyager with every hour. Our window to re­trieve it is closing. And the chain looks dead, it might never finish or give us anyt­hing tang­ible."
+Vaxzor, seated nearby, replied without looking up. "It will come. The timechain never lies. But it never hurries either."
+
+"That's not enough," Zoltar said. "Every second we wait, a poss­ible traje­ctory becomes an imposs­ibility. Voyager won't wait. And neither will the crew. Earths infrast­ructure seems intact, and we need the LAT to use it. Without it, we're without power."
+
+Rumors had begun to churn. Some beli­eved the Nakamoto had succ­eeded. Others beli­eved both ships had failed and they were the last re­mnants of some­thing long dead. Many beli­eved the empty blocks they'd re­ceived so far hinted at some­thing darker: that huma­nity was no more. Many wanted to build a future right there, in deep space, on the Hal Finney.
+
+"We don't need the Voyager colla­teral anymore," said one engi­neer. "If huma­nity is gone, then so are their cont­racts, their poli­tics, their systems. We don't need their techn­ology. We can build our own infrast­ructure. We can reclaim Earth."
+
+"A future without the baggage," another agreed.
+
+That wasn't enough for Zoltar. But while ever­yone on the ship was pani­cking from the depre­ssing news, Zoltar felt excite­ment. Against this back­drop, Zoltar didn't believe the mission had inevi­tably failed, it just became much more inter­esting.
+
+Zoltar raised his hand. "It's not a ques­tion, but I have an idea. I don't want to sound overly optim­istic, but I think we can indeed do both."
+
+***
+
+By Day 28, opin­ions on the ship were split almost evenly. Some wanted to wait - just one more day - for more data. Others had enough of waiting, and simply voiced their desire to call the mission a colo­ssal failure and go home.
+
+Ever­yone else rallied behind Zoltar, who - at the height of the crew's divi­sion came to Vaxzor's quar­ters. Un­announced.
+
+"I have a plan. It's risky, but it gives us a shot at both goals. Wait longer, and that option vani­shes."
+
+Vaxzor turned from the term­inal, exha­usted. "We still know nothing. No proof. Not even a clear word from Sol."
+Zoltar nodded. "That's the point. We're deci­ding blind, Captain. We either make our own facts, or let someone else write them. The delayed torpor wasn't a glitch on our end, it was syst­emic. If it hit us, it hit the Nakamoto too. Ration­ally, their odds of success are even lower than ours."
+
+"And if you're wrong?"
+"Then we still go home. That's the brill­iance of it."
+"You're asking for my backing. And if I say no?"
+
+Zoltar hesi­tated. Then: "Then I do it anyway. Enough of the crew is with me on this..."
+
+Vaxzor didn't respond for what felt like minutes.
+He was well aware that this was mutiny - but out here, with the humans who had granted him auth­ority long dead, and noone else within almost a lightyear to enforce it, his rank was just a symbol. Without the crew behind it, it meant nothing.
+
+Finally, he spoke up, his face stone cold: "Then give me your plan," he said, his voice flat. "If you're going to break rank, at least back it up with engin­eering."
+
+***
+
+Zoltar saluted as Vaxzor joined the bridge crew to discuss the plan they had worked on for the past weeks.
+"As you all know, our orig­inal mission profile was to appr­oach Voyager slowly - 3 kilom­eters per second delta-v. Slow enough to use a shuttle to grab it, use a laser sail to re-accel­erate the ship and go home."
+
+The crew nodded, ever­yone knew the orig­inal plan.
+
+"That's no longer an option. We're five AUs further out now. To return to Voyager, catch it, and go home, we'd need three sepa­rate boosts. Even if we had the LAT, we don't have the sail mate­rial. And even if we had that - there are too many vari­ables. If a single step fails, we're stra­nded, we ..."
+
+Vaxzor cut in before the mood could drop. "Yes, this conf­irms our own anal­ysis. But I assume you have a solu­tion. Let's hear it. Stra­ight up."
+
+Zoltar nodded, annoyed - he wanted to slowly lead them up to it, but what­ever.
+
+"We start the return burn - as if we're aband­oning Voyager. That puts us on a path back to Sol, but align it with Voyager's current vector. It's a longer, faster, more ecce­ntric traje­ctory"
+
+He paused just long enough.
+
+"Faster means catc­hing it at 30 kilom­eters per second."
+
+The crew chuc­kled. A few eyeb­rows rose.
+
+"I know it sounds insane," Zoltar said. "But I believe it's poss­ible."
+
+Vaxzor stared at Zoltar the entire time he spoke, not as a captain but as a common surv­ivor. Around him, the room carried the weight of a thou­sand un­spoken doubts, none louder than his own. He thought of the crew members still asleep, the ones who would never wake, the ones they had tagged and filed like inve­ntory. "Thirty kilom­eters per second," he whis­pered, almost to himself, but loud enough anyone could hear their own doubts re­flected back at them. "That's not a re­ndezvous - it's a colli­sion." 
+
+"But I like it." Vaxzor shut down any pre­judice among his senior offi­cers immed­iately, "Even if Zoltar's plan here fails, we at least go home. I like the prior­ities, I can live with the proba­bility. So what's the plan exactly? How can we catch this bullet?"
+
+Zoltar laid out his plan: After they would turn the ship around, align their traje­ctory towards both Sol and Voyager, they would launch their re­maining probes - at least twenty of them towards it. Every probe would have to slow Voyager down a bit, until - once Voyager makes contact with the Hal Finney, their re­lative speed would be suffic­iently low to catch it. At least in theory, that's what would happen.
+
+***
+
+The hangar bays of the ship were in a cons­tant buzz. First they had to do the return burn using their last sacri­ficial laser sail, and 6 months later try to catch the Voyager, until they can all go back into torpor.
+
+The return burn was un­eventful - boring almost. Just a few hours of accelera­tion and not much more to notice. Vaxzor invited ever­yone to a watc­hing party in one of the hangar bays. A big screen showing their course and speed, and a subdued cheer went through the crowd as the faraway lasers finally stopped and their course was locked in. But ever­yone could feel the anxiety - the hard part was just begi­nning.
+
+Zoltar's plan had two main compo­nents. They needed a way for their shut­tles to reach Voyager - some­thing that, consi­dering the limited chem­ical thru­sters on the mining probes they had avail­able, re­quired a 2-stage appr­oach, two of their shut­tles linked toge­ther almost like you would launch from a plan­etary body. And some­thing to actu­ally catch/slow Voyager without destr­oying it.
+
+The tanks were massive, stret­ching floor to ceiling even in their 30 meter high cargo bays. Space was helping them, the vacuum of space and the microgravity environ­ment was exactly what you need to produce aerogel, the perfect mate­rial to create a buffer for a deli­cate stru­cture like an ancient space­craft to fall into and decel­erate. But they still needed a lot of it, and some scaff­olding for their probes to deploy it. But after only 4 months of hard work they had every­thing incl­uding a small surplus...
+
+***
+
+Zoltar had joined Vaxzor on the bridge to watch the deploy­ment of the probes. It was a weird make­shift stru­cture. First a large cyli­nder conta­ining the aerogel, conn­ected to a probe, which again was conn­ected to a second probe. They watched one after another push out of the cargo bay and accel­erate toward Voyager. Halfway, each unit deta­ched from their first stage, turned around, and decel­erated to match Voyager's speed as close as 1 km/s to posi­tion thems­elves and their gelat­inous cargo.
+
+Finally, a neck­lace in space, made out of gel stre­tched across a million kilom­eters of vacuum.
+
+*Probe 1 - Proof of Concept*
+
+The bridge fell compl­etely silent as they watched the first aerogel buffer hit Voyager. The cameras on the probe showed the iconic space­craft fall into the gel like a stone into a puddle of water. A cheer went through the crew as they saw Voyager emerge out the other side of the gel. Laser sensors conf­irmed the decelera­tion and traje­ctory within param­eters. They had proven that it worked in theory - but Vaxzor didn't feel re­lieved. From now on, his anxiety would peak.
+
+*Probe 2 - Coinc­idence*
+
+Another probe, another strike. This time softer - but with clean decelera­tion. The gel abso­rbed pre­cisely 2.24 km/s. As expe­cted. Pre­cisely as expe­cted. Which meant the un­expected loomed. Across the observa­tion ring, someone said aloud what others feared: "Two is just noise. Three is pattern."
+
+*Probe 3 - Confi­dence*
+
+A betting pool opened among the crew. Vaxzor marked it down as "ritual tension release," though his own stake re­mained un­documented. The third probe made contact like a hand folding into a glove. If they still prayed, this would have been the moment.
+
+*Probe 5 - Disb­elief*
+
+By the fifth probe, fear began to mutate. Not into relief, but into mist­rust. Zoltar stared at the data without blin­king. "We used 21 for re­dundancy, some­thing should've broken by now," he said flatly. No one disa­greed. That was the problem.
+
+*Probe 6 - 21 - Compl­acency*
+
+Each probe did its job. No cascade. No devia­tion. Contact veloc­ities matched. Gel forma­tions rippled clean. The tele­metry showed consi­stent slow-down across all inter­cepts. The odds chart stopped upda­ting - nothing changed.
+
+No cheers. No fail­ures. No rituals. Just station-veri­fied confir­mations of decelera­tion. One after the other. Perfect.
+
+By probe 21, Voyager had lost the re­quired 30 km/s. Enough to catch. Enough to land. No tele­metry anom­alies. No damage reports. Just 21 clean land­ings.
+
+The support had held. Their wall of worry never touched.
+
+Yet, the mood of the crew was stra­ngely down. Ever­yone expe­cted at least one cascade. One failure. One gel rupture, thru­ster misfire or un­aligned tele­metry.
+
+They almost yearned for a last-ditch effort and chance to be a hero. The betting pool was not for success - but for which probe would fail first. That was the tone. The mood. The legacy of every other plan they'd ever fielded.
+
+No medals were issued. The mission file was marked to be rati­fied: "Success. No devia­tions, no further comment."
+
+***
+
+After what seemed to last a life­time, it finally came home. Voyager - scarred but intact, a testa­ment to huma­nity - drifted into the hangar of the Hal Finney. Slowed by the final gel net, its hull kissed metal with a whisper.
+
+No one appl­auded. The crew had expe­cted to matter. Expe­cted to deal with failure, and a chance to redeem. Expe­cted to be needed, to be part of the pinn­acle of their effort. Instead, they again felt the weight of being scaff­olding - infrast­ructure.
+
+Workers cleared the bay of any large chunks of gel before Zoltar insp­ected the capt­ured trea­sure. "It won't fly again... but the inte­rior seems intact"
+
+Vaxzor stood beside it for a long while. The myth, the dream, the silence. Huma­nity's far-fetched goal back then had been that aliens would find it.
+
+Nobody had expe­cted genetic­ally-engin­eered debt-slaves, not coming to explore but to survive.
+
+Zoltar's plan succ­eeded. He marv­eled at the beauty of the situa­tion: "Huma­nity sent this probe, on the slim chance of first contact. And now we bear witness to our last contact with huma­nity. What we've inhe­rited is the great cosmic silence."
+
+"Look at us," Vaxzor whis­pered to Voyager, a scra­tched and beaten corpse stra­nded on their hangar floor. "We're the aliens now."
+
+***
+
+A feeling of sadness washed over Vaxzor. They had succ­eeded, but what now? The only thing left to do was to cont­inue on their ticket home. The Nakamoto's fate was still unclear. The situa­tion at Earth: unknown. How will the world they return to look like? If they'd succ­eeded they'd be welc­omed as heroes, but Vaxzor had a hunch they'll just be out of date, ghosts of a distant past forg­otten by gener­ations of rats desc­ended from Jerenxa's legacy.
+
+In no way did he fear what was actu­ally waiting for him, and a few days later, upon re­turning to his quar­ters, he didn't notice the screen blaring "down­load comp­lete" that tired was he. Only after being ready for sleep did he check on it, only to not sleep that day at all.
+The timechain had finally been synced. So far so good.
+
+He immed­iately looked for mess­ages signed by the Nakamoto. Short bursts, un­obfuscated and easy to find in the opcodes.
+
+    "Second Bailout secured."
+
+And another message, sent a few weeks after, but adju­sted for their torpor, roughly 100 years ago read:
+    
+    "They are gone."
+
+Only once the timechain was fully downl­oaded and indexed, he un­derstood the message.
+
+Human acti­vity had cont­inued long after the Rats aban­doned their mission in the Belt. Huma­nity eventu­ally secured it. The Tabbies - not defe­ated, but managed. The orbital ring over Earth had been comp­leted. Dozens of massive stat­ions popu­lated the orbi­tals, and the Dyson swarm prov­ided them with un­paralleled techno­logical and econo­mical prowess. Techno­logical miles­tones came and went. Techn­ology and infrast­ructure expa­nded. Nothing hinted at coll­apse.
+
+Unable to tell when exactly it happ­ened, but a pattern emerged. The timechain, while valid­ating block after block to the present day, un­disturbed, showed less and less human acti­vity. At some point it fizzled out - until the last trans­action had been re­corded. His first thought was that huma­nity had simply moved on to another system. But if that were true - why not shut this one down? Some­thing more prof­ound had happ­ened. And now he un­derstood:
+
+Huma­nity was really gone.
+
+Vaxzor instr­ucted his pers­onal AI to search for inscri­ptions hinting at what happ­ened, but it was inconc­lusive. A lot of entries hovered around "The Rapture" - a concept from huma­nity's ancient re­ligions. Did their deities awaken and take them? Did huma­nity trans­cend, or did some­thing horr­ible happen?
+
+And the fami­lies the rat crews left behind?
+Many - Vaxzor incl­uded - had feared human re­taliation. Rati­cide.
+
+But their fami­lies weren't exec­uted, not left to starve - just forg­otten. Barring mecha­nical failure still slee­ping in torpor on the Moon. Without trans­actions, there is nothing to wake them for their shifts.
+
+But he found none re­corded. But this felt even worse. 
+
+Vaxzor wrote into the logbook: "Huma­nity didn't even care to deal with us. They simply left the torpor pods humming to slowly fail one by one through neglect and disap­peared, not caring how and if someone would wake them up. The ulti­mate price of our fleet's defec­tion had been paid, it re­quired no trans­action fees, no signa­tures decl­aring re­sponsibility."
+
+He should have felt triumph. His deci­sions and low time pre­ference helped Ratkind prevail, but the cost had been too high. His fur stood up and he shiv­ered as he re­membered the number again: 98%. He knew the guilt was his to bare.
+
+"All we had to do was die as heroes, maybe then they might have met a diff­erent fate." 
+
+Beyond that, every­thing else seemed - normal. Mach­ines did what they had always done. Auto­mated systems held every­thing toge­ther, degr­ading slowly in the absence of maint­enance, but not failing. No crashes. No alarms. No good­byes.
+
+And through the long quiet night, the chain ran un­disturbed.
+Tick Tock, next block.

@@ -1,0 +1,88 @@
+## 192 AR. UOS Nakamoto
+
+Zorkal finally had an office with a view again. He thought he'd never see the day. One of the hangar bays of the Nakamoto had been conv­erted to one. Pano­ramic windows, which occasion­ally, if the orbit permits, would show Earth or the Moon zip by.
+
+Zorkal did it again. He felt the rush of adren­aline that only success gives you come back. More than that first drip after a dry streak, it made him feel alive again. But as clear as the path was now ahead of him, he dreaded doing the actual work. He knew actu­ally setting up the game will prove more diff­icult than he imag­ined. As clear-cut the pitch looks in his imagina­tion, people are stupid, and their inter­ests are misal­igned.
+
+"Kalora" - Zorkal greeted her upon ente­ring the office, "Are you ready to record the announce­ment?" - "Sure, but I'm not sure about that script - Captain of the Nakamoto, Really? The ship is in a tug orbit ever since 1 AR. I am a burea­ucrat at best."
+"That is just mark­eting, and ever­yone knows we're not filming a docum­entary. Leave the narra­tives to me, will you?" he said with a tone of condesc­endence.
+
+"If I don't like it, I won't sign it. Noone can force me." Kalora thought, but it didn't give her much peace.
+
+***
+
+The wall behind Kalora disp­layed the rota­ting emblem of the UOS Nakamoto.
+"Standby for an offi­cial announce­ment of the acting captain of the UOS Nakamoto."
+There was an inten­tional delay of 15 minutes before she stepped into the frame.
+
+Zorkal knew it was all about visuals.
+
+Even though the office was located in the rota­ting drum of the Nakamoto, Kalora was wearing magn­etic boots, which made a disti­nctive clack as she walked into the frame.
+
+The uniform she was wearing was some­thing they had created for the game and the purpose. It was true to the orig­inal from the battle of the belt, with some inten­tional modifi­cations in color and form to appeal to the entertain­ment nature of the whole thing. On her left breas­tplate, under her 4 orange pins, indic­ating her capt­ains rank, the words "Kalora", "UOS Nakamoto" and her public key - her digital iden­tity - were embro­idered for ever­yone to see.
+
+
+***
+
+	We stand at the edge of history.
+	At the precipice of a moment that will echo through the stars for centuries to come. 
+	
+	I speak to you from the very heart of our heritage, the legendary UOS Nakamoto, the ship that carried us home, that gave us our future.
+
+	Before the year is out, you will have the opportunity to witness, to become part of something that has never been seen in two centuries.
+	An experience that will not just look back at our past, but will redefine our future. This is not a mere event, this is a rebirth - the resurrection of the Battle of the Belt, a struggle that forged us into who we are today.
+
+	But this is not just about honoring the past. This is your chance to claim your rightful place in history - to earn the legacy that so many have only heard about, but never lived. The Battle of the Belt was a defining moment - and now, YOU have the power to participate in a way that will shape the destiny of Ratkind for generations to come.
+
+	Many believe not everything we've been told about that defining moment is the full truth, that we celebrate only a narrative shaped by those who lived to tell it. This is your chance to discover what history has kept from you - and to claim your place in the story that has yet to be fully written.
+
+	We are inviting your to stand alongside the titans of our past, to feel the raw power of that struggle in your bones, and to carve your signature into the annals of history.
+
+	The collateral to reach your personal escape velocity - to break free from the gravity of our limitations and soar into a future beyond imagination - is within your grasp.
+
+	But know this: time is fleeting.
+	The second bailout may forever remain beyond our reach.
+	The deeper meaning of what awaits you will only become clear to those bold enough to seize it, to those willing to act before it's too late.
+
+	The echoes of history will remember who stood here. Who chose to act. Who was bold enough to claim their rightful place among legends.
+
+\
+... is what Kalora should have said. It took her 7 takes to do it right. Zorkal was pleased with the results, even through he knew few people would watch the full one. They re­corded a few standalone clips.
+
+"History is about to be re­written. Will you stand on the right side of it?" will become the one to go viral as soon as the public discl­osure of the Hal Finney's surv­ival hit.
+
+Kalora was still skep­tical. "This will just make it look like we had insider know­ledge."
+"Yes, and we clearly had. Some will even think the entire discl­osure is fake, and it's simply viral mark­eting, but it doesn't matter how blatant, I wager it will still be very effe­ctive"
+"But won't this play into the hands of the LLSA?" - "It doesn't matter. Maybe they'll even look the other way at what we're doing here. They already made their move a year ago, now it is our turn."
+
+***
+
+And like the tick tock of the timechain it played out. The "Nakamoto Exper­ience" filled that gap of compl­acency with excite­ment - it offered some­thing people can do, be a part of some­thing big, either as passive partic­ipants, as trading the various gear or physic­ally taking part in the whole thing.
+Unlike VR, the Exper­ience was offe­ring real g-forces, real fights and stakes. And to the tril­lions of rats depe­nding on drips, it was mark­eted as a way out by working in construc­tion to set up the game, or gamb­ling the little funds they had on the remote chance to win big.
+
+Kalora walked the Nakamoto's long, busy corr­idors, even the re­sonance of her foot­steps now felt oppre­ssive. Screens embe­dded in the walls - once looping historic­ally accu­rate arch­ival footage of the Battle of the Belt - now flic­kered with propa­ganda feeds.
+
+Her own voice echoed across the UOS: "Choose a side. Become a Nakamotonaut!"
+
+The public's re­sponse was instant and chaotic, all mediums filled with specula­tion, rage, and fervor.
+Some called it a scam, others clung to it as salva­tion. "It's just viral mark­eting," was the most common re­buttal, But sign-ups surged.
+
+Bill­ions of rats, desp­erate for colla­teral, for purpose, for anyt­hing, signed on day 1 - with more queu­eing in. But they weren't volun­teers - they were fuel.
+
+She passed by a launch bay, now conv­erted into re­cruitment offices, lines looping around the shut­tles. She paused, watc­hing a young rat sign the trans­action, commi­tting his entire savings - decades of hard labor - to the cause. The girl's fingers were trem­bling but eyes bright with excite­ment.
+It stopped Kalora in her tracks briefly, she watched the girl closely half-expe­cting the young recruit to read it care­fully and re­cognize the pote­ntial fraud behind the words. But no one did. They were too busy drea­ming.
+
+Kalora was a hist­orian, once a cust­odian of truth, now all she felt was the weight of her own compl­icity settle like dust. This wasn't pre­servation or educa­tion - it was perfo­rmance. She stared at the Nakamoto's landing, where some of the ship's earned battle scars were hidden behind a flashy new screen by a crew of welders. The repairs to the negl­ected Nakamoto and installa­tion of the re­quired deter­rence hard­ware exper­ienced no delays, and when­ever pre­serving history confl­icted with an oppor­tunity for more LAT, it was the latter.
+She knew she was watc­hing a sacr­ilege, unable to tell if she was witness or parti­cipant.
+
+That ques­tion haunted her daily. She started staying late in the bays, pre­tending to check diagn­ostics, when really she just watched the new re­cruits cycle through. They weren't joining for heri­tage. They were signing cont­racts scri­pted like loot boxes - discl­aimers, multi­pliers, pena­lties. "Earn escape velo­city" adver­tised across one screen, while another offered disco­unted liquida­tion insu­rance. Kalora tried to report the worst offe­nders in the colla­teral logic, but Zorkal's AIs routed the majo­rity of her re­quests into the backlog. Her crede­ntials still said "Acting Captain." But the Nakamoto had been comman­deered by some­thing far older than chain-of-command: supply and demand.
+
+***
+
+Zorkal knew it was still at a knife's edge. This enter­prise was a highly leve­raged play. A lot of colla­teral - incl­uding all of his own will be tied up in it, and it's not a sustain­able busi­ness in the long-term, and clearly not provide value to Ratkind beyond expe­nsive entertain­ment. The timechain fees alone to pay for the battlespace would thre­aten bank­rupcy them even if the game was a success.
+
+But all distra­ctions need to look expe­nsive to be believ­able. If they fail, it's done.
+
+"This time I will take profits," Zorkal told himself.
+
+"And if we fail, I can always go back to Lagrange, cont­inue to drink myself to a slow death. Even my worst case scen­ario just means I return as one of them. Another face in Faucet. Waiting for the next drip." It felt good.
